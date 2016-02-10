@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>Language Of Shakespeare Plays</title>
+  </head>
   <body>
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <h1>Language Of Shakespeare Plays</h1>
+
+    <nav>
+      {% for analysis in site.analyses %}
+      <a href="{{ analyses.url }}">{{ analysis.title }}</a>
+      {% endfor %}
+    </nav>
+
+    {{ content }}
   </body>
 </html>
