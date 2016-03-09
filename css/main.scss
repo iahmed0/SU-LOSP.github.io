@@ -3,28 +3,10 @@
 ---
 @charset "utf-8";
 
-
-
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
 $on-palm:          600px;
 $on-laptop:        800px;
-
-
+$text-color:       #000;
+$link-color:       #999;
 
 // Using media queries with like this:
 // @include media-query($palm) {
@@ -40,10 +22,71 @@ $on-laptop:        800px;
 }
 
 
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 300;
+  src: url(/fonts/alegreya.ttf) format('truetype');
+}
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+
+figure > img {
+    display: block;
+}
+
+
+li {
+    > ul,
+    > ol {
+         margin-bottom: 0;
+    }
+}
+
+
+a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:visited {
+        color: darken($link-color, 15%);
+    }
+
+    &:hover {
+        color: $text-color;
+        text-decoration: underline;
+    }
+}
+
+
+#header {
+    font-family: "Alegreya";
+    font-size: 18px;
+    padding: 2em;
+}
+
+#header h1 {
+    margin: 0;
+}
+
+#header nav {
+    text-align: right;
+}
+
+#header hr {
+    width: 80%;
+    margin: auto;
+    color: $text-color;
+}
