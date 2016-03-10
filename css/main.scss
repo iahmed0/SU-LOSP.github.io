@@ -1,12 +1,11 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
-$on-palm:          600px;
-$on-laptop:        800px;
-$text-color:       #000;
-$link-color:       #999;
+$text-color: #000;
+$link-color: #999;
 
 // Using media queries with like this:
 // @include media-query($palm) {
@@ -36,26 +35,6 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
-img {
-    max-width: 100%;
-    vertical-align: middle;
-}
-
-
-figure > img {
-    display: block;
-}
-
-
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
-}
-
-
 a {
     color: $link-color;
     text-decoration: none;
@@ -63,30 +42,69 @@ a {
     &:visited {
         color: darken($link-color, 15%);
     }
-
     &:hover {
-        color: $text-color;
+        color: darken($link-color, 5%);
         text-decoration: underline;
     }
+}
+
+
+body {
+    padding: 2em;
 }
 
 
 #header {
     font-family: "Alegreya";
     font-size: 18px;
-    padding: 2em;
+    margin: 1em 0 2em 0;
+
+    & h1 {
+        margin: 0;
+        padding: 0;
+    }
+
+
+    & nav {
+        line-height: 200%;
+        text-align: right;
+
+        & li {
+            display: inline-block;
+            padding-left: 1em;
+        }
+
+        & li ul {
+            display: none;
+        }
+
+        & li:hover ul {
+            position: absolute;
+            display: block;
+        }
+    }
+
+    & hr {
+        width: 80%;
+        margin: auto;
+        color: $text-color;
+    }
 }
 
-#header h1 {
-    margin: 0;
-}
-
-#header nav {
-    text-align: right;
-}
-
-#header hr {
-    width: 80%;
+#header:after {
+    content: "";
+    position: absolute;
+    top: 4em;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 1px;
     margin: auto;
-    color: $text-color;
+    width: 100%;
+    border-bottom: 1px solid lighten($link-color, 15%);
+    box-shadow: 1px 0px 1px 0px lighten($link-color, 15%);
+}
+
+main {
+    margin: 3em 0 3em 0;
 }

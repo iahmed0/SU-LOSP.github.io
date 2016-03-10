@@ -4,22 +4,31 @@
     <title>Language Of Shakespeare Plays</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="/css/main.css" rel="stylesheet">
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
     <script charset="utf-8" src="/js/bootstrap.min.js"></script>
   </head>
   <body>
     <header id="header" class="col-md-12">
-      <h1 class="col-md-6">Language Of Shakespeare Plays</h1>
+      <a href="/">
+        <!-- logo -->
+        <h1 class="col-md-6">Language Of Shakespeare Plays</h1>
+      </a>
 
       <nav class="col-md-6">
-        {% for analysis in site.analyses %}
-        <a href="{{ analysis.url }}">{{ analysis.title }}</a>
-        {% endfor %}
+        <ul>
+          <li><a href="#">Plays</a>
+            <ul>
+              {% for analysis in site.analyses %}
+              <li><a href="{{ analysis.url }}">{{ analysis.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+          <li><a href="/tools/">Tools</a></li>
+          <li><a href="/research/">Research</a></li>
+          <li><a href="/tools/">Contributors</a></li>
+        </ul>
       </nav>
-
-      <hr class="clearfix"/>
     </header>
 
     <main class="col-md-12">

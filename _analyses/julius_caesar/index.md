@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Julius Caesar
-permalink: "/analyses/julius_caesar/"
 ---
 
 [Download as PDF]({{ page.url }}julius_caesar.pdf)

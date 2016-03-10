@@ -3,10 +3,19 @@ title: Language Of Shakespeare Plays
 baseurl: ""
 url: ""
 exclude: ["vendor"]
+permalink: "pretty"
 
 collections:
     analyses:
+        permalink: "/:collection/:path/"
         output: true
 
-# Build settings
-markdown: kramdown
+defaults:
+    -
+        scope:
+            path: ""
+            type: "analyses"
+        values:
+            layout: "page"
+
+markdown: "kramdown"
