@@ -1,3 +1,8 @@
+---
+title: Help
+permalink: /help/
+---
+
 To install:
 
     bundle install
