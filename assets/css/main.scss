@@ -62,9 +62,15 @@ body {
 
     & nav {
         margin: 0;
+        padding: 0;
         text-align: right;
 
+        ul {
+            margin: 0;
+        }
+
         li {
+            line-height: 200%;
             display: inline-block;
             padding-left: 1em;
         }
@@ -81,6 +87,7 @@ body {
         }
 
         & #plays li {
+            line-height: 100%;
             list-style-type: square;
         }
     }
