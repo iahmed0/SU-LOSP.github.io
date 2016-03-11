@@ -7,7 +7,6 @@ permalink: "pretty"
 
 collections:
     analyses:
-        permalink: "/:collection/:path/"
         output: true
 
 defaults:

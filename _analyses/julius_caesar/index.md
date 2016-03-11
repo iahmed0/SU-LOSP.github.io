@@ -1,8 +1,9 @@
 ---
 title: Julius Caesar
+permalink: /analyses/julius_caesar/
 ---
 
-[Download as PDF]({{ page.url }}julius_caesar.pdf)
+[Download as PDF](julius_caesar.pdf)
 
 # Women
 
@@ -14,7 +15,7 @@ Caesar more or less than would be expected, compared to the rest of
 Shakespeare's plays.  The words in black appear more frequently in Julius Caesar
 than in other plays; words in grey appear less frequently.
 
-![Wordcloud]({{ page.url }}word_cloud.png "Word cloud created on WordHoard")
+![Wordcloud](word_cloud.png "Word cloud created on WordHoard")
 
 It's not surprising that words like "Roman" and "Ides" are more prevalent in
 this play, that's something that we could easily have guessed, but this word
@@ -32,7 +33,7 @@ To give us some context, in the diagram below we can see how often the word
 
 _Occurrence of the word "she" in Julius Caesar, Hamlet, Macbeth and Othello_
 
-![She occurrences]({{ page.url }}she.png "Concordance Plots made with AntConc")
+![She occurrences](she.png "Concordance Plots made with AntConc")
 
 These plots don't only show how often the word "she" comes up in the four plays,
 but also when.  Each vertical line is one occurrence of the word, and where it
@@ -49,7 +50,7 @@ masculine and feminine pronouns in Julius Caesar, this huge discrepancy becomes
 even more apparent.
 
 _Occurrence of the word "he" in Julius Caesar_
-![He occurrences]({{ page.url }}he.png "Concordance Plots made with AntConc")
+![He occurrences](he.png "Concordance Plots made with AntConc")
 
 So, the word "he" comes up 199 times in Julius Caesar, while the word "she" only
 appears 7 times which further illustrates the obvious disparity between genders.
@@ -120,8 +121,8 @@ Using AntConc again, we can separate the times when Caesar's name is used in
 dialogue and when it is used in stage directions. This can show us (roughly) how
 often Caesar talks, and how often he is talked about.
 
-![Julius Caesar - in dialogue]({{ page.url }}juliuscaesar_dialogue.png "Concordance Plots made with AntConc")
-![Julius Caesar - in stage directions]({{ page.url }}juliuscaesar_directions.png "Concordance Plots made with AntConc")
+![Julius Caesar - in dialogue](juliuscaesar_dialogue.png "Concordance Plots made with AntConc")
+![Julius Caesar - in stage directions](juliuscaesar_directions.png "Concordance Plots made with AntConc")
 
 These plots show us that Caesar is mentioned in dialogue 219 times, and yet he
 only speaks and/or is mentioned in stage directions 51 times.
