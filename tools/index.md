@@ -10,9 +10,20 @@ For further information and to download, please follow the links below.
 
 A little Python 3 script we created that fetches a Shakespeare play from
 <http://shakespeare.mit.edu/> and outputs a CSV table with the times each
-character appears. Can be used to determine when characters meet each other.
+character appears. It takes into account when characters enter and exit the
+stage and it can be used to determine when characters meet each other.
 
-    python3 characters.py http://shakespeare.mit.edu/twelfth_night/full.html
+    $ python3 characters.py http://shakespeare.mit.edu/twelfth_night/full.html
+    time,character
+    0,CURIO
+    0,DUKE ORSINO
+    1,VALENTINE
+    1,CURIO
+    1,DUKE ORSINO
+    3,VIOLA
+    6,SIR ANDREW
+    …
+
 
 
 ## [AntConc](http://www.laurenceanthony.net/software/antconc/)
