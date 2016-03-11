@@ -1,3 +1,20 @@
+# characters.py - analyse character interactions in Shakespeare plays
+# Copyright (C) 2016 Unai Zalakain <unai@gisa-elkartea.org>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
 import csv
 import re
 import sys
@@ -27,9 +44,8 @@ def appearances(soup):
 
 if __name__ == '__main__':
     soup = request.urlopen(sys.argv[1]).read()
-    data = list(appearances(soup))
     writer = csv.writer(sys.stdout)
     writer.writerow(['time', 'character'])
-    for time, appearance in enumerate(data):
+    for time, appearance in enumerate(appearances(soup)):
         for character in appearance:
             writer.writerow([time, character])
