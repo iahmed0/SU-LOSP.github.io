@@ -4,9 +4,9 @@ layout: page
 ---
 
 ![Little Shakespeare](/assets/images/shakespeare.png)
-{: .col-md-2}
+{: .col-md-4}
 
-<div class="col-md-10" markdown="1">
+<div class="col-md-8" markdown="1">
 
 Welcome to *Language of Shakespeare’s Plays*. Our aim is to provide new and
 interesting analyses of Shakespeare’s works to find things that are not always
