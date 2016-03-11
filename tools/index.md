@@ -1,9 +1,19 @@
 ---
 layout: page
 title: Tools
+permalink: /tools/
 ---
 
 For further information and to download, please follow the links below.
+
+## [characters.py](/tools/characters.py)
+
+A little Python 3 script we created that fetches a Shakespeare play from
+<http://shakespeare.mit.edu/> and outputs a CSV table with the times each
+character appears. Can be used to determine when characters meet each other.
+
+    python3 characters.py http://shakespeare.mit.edu/twelfth_night/full.html
+
 
 ## [AntConc](http://www.laurenceanthony.net/software/antconc/)
 
