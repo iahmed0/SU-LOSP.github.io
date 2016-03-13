@@ -50,6 +50,8 @@ body {
     clear: both;
 }
 
+$arrow-size: .7em;
+
 .arrow {
     display: inline-block;
     height: 0;
@@ -59,17 +61,17 @@ body {
 
 .arrow-right {
     @extend .arrow;
-    margin-left: 1em;
-    border-top: 1em solid transparent;
-    border-bottom: 1em solid transparent;
-    border-left: 1em solid $link-color;
+    margin-left: $arrow-size;
+    border-top: $arrow-size solid transparent;
+    border-bottom: $arrow-size solid transparent;
+    border-left: $arrow-size solid $link-color;
 }
 
 .arrow-down {
     @extend .arrow;
-    border-left: 1em solid transparent;
-    border-right: 1em solid transparent;
-    border-top: 1em solid $link-color;
+    border-left: $arrow-size solid transparent;
+    border-right: $arrow-size solid transparent;
+    border-top: $arrow-size solid $link-color;
 }
 
 
