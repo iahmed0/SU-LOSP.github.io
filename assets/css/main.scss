@@ -50,6 +50,29 @@ body {
     clear: both;
 }
 
+.arrow {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    font-size: 35%;
+    margin-right: .5em;
+}
+
+.arrow-right {
+    @extend .arrow;
+    border-top: 1em solid transparent;
+    border-bottom: 1em solid transparent;
+    border-left: 1em solid $link-color;
+}
+
+.arrow-down {
+    @extend .arrow;
+    border-left: 1em solid transparent;
+    border-right: 1em solid transparent;
+    border-top: 1em solid $link-color;
+}
+
+
 #header {
     font-family: "Alegreya";
     font-size: 18px;

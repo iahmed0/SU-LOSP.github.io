@@ -16,7 +16,12 @@
       <nav class="col-md-6">
         <ul>
           <li><a href="/">Presentation</a></li>
-          <li id="open-plays"><a href="/plays/">Plays</a></li>
+          <li id="open-plays">
+            <a href="/plays/">
+              <div id="plays-arrow" class="arrow-right"></div>
+              Plays
+            </a>
+          </li>
           <li><a href="/tools/">Tools</a></li>
           <li><a href="/research/">Research</a></li>
           <li><a href="/contributors/">Contributors</a></li>
@@ -40,6 +45,8 @@
     <script charset="utf-8">
       document.getElementById("open-plays").onmouseover = function(e) {
         document.getElementById("plays").classList.add("open");
+        document.getElementById("plays-arrow").classList.remove("arrow-right");
+        document.getElementById("plays-arrow").classList.add("arrow-down");
       };
     </script>
   </body>
