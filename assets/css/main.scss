@@ -52,7 +52,6 @@ body {
 
 .arrow {
     display: inline-block;
-    width: 0;
     height: 0;
     font-size: 35%;
     margin-right: .5em;
@@ -60,6 +59,7 @@ body {
 
 .arrow-right {
     @extend .arrow;
+    margin-left: 1em;
     border-top: 1em solid transparent;
     border-bottom: 1em solid transparent;
     border-left: 1em solid $link-color;
