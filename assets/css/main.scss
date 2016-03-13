@@ -91,11 +91,15 @@ $arrow-margin-correction: .6em;
         padding: 0;
         text-align: right;
 
-        ul {
+        & a:focus {
+            outline: none;
+        }
+
+        & ul {
             margin: 0;
         }
 
-        li {
+        & li {
             line-height: 200%;
             display: inline-block;
             padding-left: 1em;
