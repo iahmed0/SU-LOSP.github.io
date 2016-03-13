@@ -51,6 +51,7 @@ body {
 }
 
 $arrow-size: .7em;
+$arrow-margin-correction: .6em;
 
 .arrow {
     display: inline-block;
@@ -61,7 +62,7 @@ $arrow-size: .7em;
 
 .arrow-right {
     @extend .arrow;
-    margin-left: $arrow-size;
+    margin-left: $arrow-margin-correction;
     border-top: $arrow-size solid transparent;
     border-bottom: $arrow-size solid transparent;
     border-left: $arrow-size solid $link-color;
