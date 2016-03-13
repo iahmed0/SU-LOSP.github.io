@@ -1,6 +1,5 @@
 ---
 title: Presentation
-layout: page
 ---
 
 ![Little Shakespeare](/assets/images/shakespeare.png)
