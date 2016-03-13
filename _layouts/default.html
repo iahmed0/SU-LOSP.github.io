@@ -17,7 +17,7 @@
         <ul>
           <li><a href="/">Presentation</a></li>
           <li id="open-plays">
-            <a href="/plays/">
+            <a href="#">
               <div id="plays-arrow" class="arrow-right"></div>
               Plays
             </a>
@@ -43,10 +43,10 @@
     <footer>
     </footer>
     <script charset="utf-8">
-      document.getElementById("open-plays").onmouseover = function(e) {
-        document.getElementById("plays").classList.add("open");
-        document.getElementById("plays-arrow").classList.remove("arrow-right");
-        document.getElementById("plays-arrow").classList.add("arrow-down");
+      document.getElementById("open-plays").onclick = function(e) {
+        document.getElementById("plays").classList.toggle("open");
+        document.getElementById("plays-arrow").classList.toggle("arrow-right");
+        document.getElementById("plays-arrow").classList.toggle("arrow-down");
       };
     </script>
   </body>
