@@ -13,5 +13,10 @@ defaults:
     -
         values:
             layout: "page"
+    -
+        scope:
+            type: "analyses"
+        values:
+            layout: "analysis"
 
 markdown: "kramdown"
