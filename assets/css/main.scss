@@ -153,6 +153,13 @@ main {
             list-style: none;
         }
     }
+
+    & dl { margin: 2em 0 2em 0;
+    }
+
+    & dt {
+        margin-top: 1em;
+    }
 }
 
 article {
@@ -235,10 +242,18 @@ article {
     }
 }
 
-dl { margin: 2em 0 2em 0;
-}
+footer {
+    margin-top: 3em;
+    padding: 1em 0 1em 0;
+    border-top: 1px solid lighten($link-color, 15%);
+    opacity: .4;
 
-dt {
-    margin-top: 1em;
-}
+    &:hover {
+        opacity: 1;
+    }
 
+    & #license-logo img {
+        display: table;
+        margin: 0 auto 0 auto;
+    }
+}

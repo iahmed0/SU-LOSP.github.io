@@ -40,8 +40,26 @@
       {{ content }}
     </main>
 
-    <footer>
+    <footer class="col-md-12">
+      <div id="license-text" class="col-md-5">
+        <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">
+          Language of Shakespeare's Plays
+        </span>
+        by
+        <a xmlns:cc="http://creativecommons.org/ns#" href="http://losp.us/contributors/" property="cc:attributionName" rel="cc:attributionURL">
+          University of Strathclyde Students
+        </a>
+        is licensed under a
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+          Creative Commons Attribution-ShareAlike 4.0 International License
+        </a>
+        .
+      </div>
+      <a id="license-logo" class="col-md-2" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+        <img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+      </a>
     </footer>
+
     <script charset="utf-8">
       document.getElementById("open-plays").onclick = function(e) {
         document.getElementById("plays").classList.toggle("open");
