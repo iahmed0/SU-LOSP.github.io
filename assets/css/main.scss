@@ -225,14 +225,6 @@ article {
             padding: 0 20% 0 20%;
         }
 
-        dl {
-            margin: 2em 0 2em 0;
-        }
-
-        dt {
-            margin-top: 1em;
-        }
-
         & ul {
             margin: 0;
         }
@@ -243,3 +235,11 @@ article {
         }
     }
 }
+
+dl { margin: 2em 0 2em 0;
+}
+
+dt {
+    margin-top: 1em;
+}
+
