@@ -12,3 +12,10 @@ use of Caesar’s name in the play.
 Unai Zalakain
 : Second year Computer Science student at Strathclyde University. He has put
 together this website and created the small `characters.py` analysis script.
+
+Linus Heckemann
+: Linus is a second-year student at the University of Strathclyde studying
+Computer Science, and a Junior Web Developer at Twig World. He is participating
+in the analysis component of the TextLab project, looking primarily at developing
+additional tools to help gain further insight into the texts, and contributing
+to the analysis of Richard II.
