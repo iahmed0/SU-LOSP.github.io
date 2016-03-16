@@ -1,9 +1,10 @@
 ---
-title: Presentation
+title: About Us
 ---
 
+<div class="col-md-4" markdown="1">
 ![Little Shakespeare](/assets/images/shakespeare.png)
-{: .col-md-4}
+</div>
 
 <div class="col-md-8" markdown="1">
 
@@ -22,23 +23,9 @@ tools for personal use from our [Tools](/tools/) page.
 This website is run by a group of students from the University of Strathclyde as
 part of an ongoing collaborative project between the Computer & Information
 Science and English Literature Departments. It is currently a work in progress
-and we will be continually adding and expanding our research.  If you have any
-queries or additional input please feel free to contact us using the email
-addresses below.
+and we will be continually adding and expanding our research.
 
-Prof. Jonathan Hope (Professor of Literary Linguistics)
-: <jonathan.r.hope@strath.ac.uk>
-
-Dr George Weir (Computer and Information Science)
-: <george.weir@strath.ac.uk>
-
-Rebecca Russell (Research Assistant)
-: <rebecca.e.russell.2013@uni.strath.ac.uk>
-
-Amanda Kane (Research Assistant)
-: <amanda.kane.2013@uni.strath.ac.uk>
-
-Evangeline Sellers (Research Assistant)
-: <evangeline.sellers.2013@uni.strath.ac.uk>
+If you have any queries or additional input please feel free to contact us using
+the email addresses found on the [Contributors](/contributors/) page.
 
 </div>
