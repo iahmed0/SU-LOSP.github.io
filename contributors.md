@@ -19,3 +19,8 @@ Computer Science, and a Junior Web Developer at Twig World. He is participating
 in the analysis component of the TextLab project, looking primarily at developing
 additional tools to help gain further insight into the texts, and contributing
 to the analysis of Richard II.
+
+Mohamed Amine Belabbes
+: Second year Computer Science at Strathclyde University. He has contributed
+into putting together the website and generated graphs using R. Finally, he
+participated to the analysis of Romeo & Juliet.
