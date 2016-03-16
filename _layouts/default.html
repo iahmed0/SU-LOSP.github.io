@@ -58,10 +58,14 @@
       <a id="license-logo" class="col-md-2" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
         <img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
       </a>
+      <div class="col-md-1 pull-right">
+        <a href="mailto:enquiries@losp.us">enquiries@losp.us</a>
+      </div>
     </footer>
 
     <script charset="utf-8">
       document.getElementById("open-plays").onclick = function(e) {
+        e.preventDefault();
         document.getElementById("plays").classList.toggle("open");
         document.getElementById("plays-arrow").classList.toggle("arrow-right");
         document.getElementById("plays-arrow").classList.toggle("arrow-down");
