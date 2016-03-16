@@ -197,11 +197,20 @@ article {
         padding: 0 20% 0 20%;
     }
 
-    dl {
+    & dl {
         margin: 2em 0 2em 0;
     }
 
-    dt {
+    & dt {
         margin-top: 1em;
+    }
+
+    & ul {
+            margin: 0;
+        }
+
+    & li {
+        width: 50%;
+        float: left;
     }
 }

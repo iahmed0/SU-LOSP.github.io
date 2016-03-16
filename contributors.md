@@ -24,3 +24,9 @@ Mohamed Amine Belabbes
 : Second year Computer Science at Strathclyde University. He contributed
 into putting together the website and generated graphs for the different plays
 using R. He also contributed to the analysis of Romeo & Juliet.
+
+James Jack
+: James is a first year Computer Science student at the University of Strathclyde. He is contributing with building the website and brainstorming ideas of how the website could be designed. He also helped develop the analysis of the play ‘Romeo & Juliet’ by researching interesting concepts of positivity and negativity and produced some graphs to display this information.
+
+Francesco Meggetto
+: Second-year Software Engineering student at Strathclyde University. He helped in the analysis of Romeo & Juliette and contributed on building the website. 
