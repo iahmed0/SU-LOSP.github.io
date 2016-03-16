@@ -11,7 +11,8 @@ use of Caesar’s name in the play.
 
 Unai Zalakain
 : Second year Computer Science student at Strathclyde University. He has put
-together this website and created the small `characters.py` analysis script.
+together this website and created the small [`characters.py`](/tools/) analysis
+script.
 
 Linus Heckemann
 : Linus is a second-year student at the University of Strathclyde studying
