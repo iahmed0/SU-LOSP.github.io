@@ -2,11 +2,11 @@
 title: About Us
 ---
 
-<div class="col-md-4" markdown="1">
+<div class="col-md-3" markdown="1">
 ![Little Shakespeare](/assets/images/shakespeare.png)
 </div>
 
-<div class="col-md-8" markdown="1">
+<div class="col-md-9" markdown="1">
 
 Welcome to *Language of Shakespeare’s Plays*. Our aim is to provide new and
 interesting analyses of Shakespeare’s works to find things that are not always
