@@ -29,10 +29,6 @@ a {
 }
 
 
-body {
-    padding: 0 2em 0 2em;
-}
-
 .clearfix {
     clear: both;
 }
@@ -63,6 +59,10 @@ $arrow-margin-correction: .6em;
     border-top: $arrow-size solid $link-color;
 }
 
+
+body {
+    padding: 0 2em 0 2em;
+}
 
 #header {
     font-family: "Alegreya";
@@ -123,18 +123,21 @@ $arrow-margin-correction: .6em;
 
 main {
     margin: 3em 0 3em 0;
+    min-height: 90vh !important;
 
     & nav {
+        padding: 0 !important;
         font-family: "Alegreya";
         font-size: 1.2em;
 
         @media (min-width: 767px) {
             position: fixed !important;
             & ul {
-                border-right: 1px solid lighten($link-color, 15%);
+                text-align: right;
+                border-right: 1px solid lighten($link-color, 35%);
                 height: 50vh;
-                padding: 2em 3.5em 2em 2em;
-                margin-right: 1em;
+                padding: 0 3em 2em 2em;
+                margin-right: 3em;
             }
         }
 
