@@ -3,7 +3,7 @@ title: Julius Caesar
 permalink: /analyses/julius_caesar/
 ---
 
-[Download as PDF](julius_caesar.pdf)
+You can [download this analysis as a PDF](julius_caesar.pdf).
 
 # Women
 
@@ -76,7 +76,8 @@ tri-grams or 3-grams), we can see that some of the instances of "I will" in the
 first list are actually part of the longer phrase "I will not". Does this change
 our findings or tell us something more?
 
-<div class="two-columns" markdown="block">
+
+<div class="col-md-6" markdown="block">
 
 - **2-grams**
 
@@ -96,6 +97,9 @@ our findings or tell us something more?
     - 22 he is
     - 21 I know
 
+</div>
+<div class="col-md-6" markdown="block">
+
 - **3-grams**
 
     - 9 there is no
@@ -114,6 +118,7 @@ our findings or tell us something more?
     - 5 know not what
     - 5 it is not
 
+</div>
 
 # Caesar
 
