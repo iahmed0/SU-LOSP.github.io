@@ -40,6 +40,8 @@ def appearances(soup):
         elif action == 'exeunt':
             on_stage = set()
         elif action == 'exit':
+            if not characters:
+                characters = {tag.findParent('blockquote').findPrevious(CHARACTER).text.strip()}
             on_stage -= characters
         yield on_stage.copy()
 
