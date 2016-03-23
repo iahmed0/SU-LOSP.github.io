@@ -24,6 +24,18 @@ stage and it can be used to determine when characters meet each other.
     …
 
 
+## [Vocabalance](https://gitlab.sphalerite.org/linus/vocabalance/)
+
+A tool that analyses the frequency with which each character uses a word,
+generating a “significance index” based on:
+
+ - How often the character uses the word
+ - How often the character speaks overall
+ - How often other characters use the word
+
+We used this to perform in-depth analysis of characters on [Richard
+II](/analyses/richard-ii).
+
 
 ## [AntConc](http://www.laurenceanthony.net/software/antconc/)
 
