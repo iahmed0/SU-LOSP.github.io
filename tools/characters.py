@@ -22,18 +22,20 @@ from urllib import request
 from bs4 import BeautifulSoup
 
 
-ACTIONS = re.compile("(Enter|Exeunt|Exit)")
+ACTIONS = re.compile("(Enter|Exeunt|Exit|Re-enter)")
 STAGE_CHANGE = lambda tag: tag.name == 'i' and ACTIONS.match(tag.text)
+CHARACTER = lambda tag: tag.get('name', '').startswith('speech')
 
 
 def appearances(soup):
     on_stage = set()
     soup = BeautifulSoup(soup, 'html.parser')
+    all_characters = {character.text for character in soup.find_all(CHARACTER)}
     for tag in soup.find_all(STAGE_CHANGE):
         action, _, words = tag.text.partition(' ')
         action = action.lower()
-        characters = {w.strip() for w in words.split(',') if w.isupper()}
-        if action == 'enter':
+        characters = {char for char in all_characters if char in words}
+        if action == 'enter' or action == 're-enter':
             on_stage |= characters
         elif action == 'exeunt':
             on_stage = set()
