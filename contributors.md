@@ -2,7 +2,7 @@
 title: Contributors
 ---
 
-[Rebecca Russell](rebecca.e.russell.2013@uni.strath.ac.uk)
+[Rebecca Russell](mailto:rebecca.e.russell.2013@uni.strath.ac.uk)
 : Rebecca is a third year student at Strathclyde University studying English
 Literature and Spanish. This is her second year as part of the TextLab project,
 returning this year as a Research Assistant. She has focussed on Shakespeare’s
@@ -37,7 +37,7 @@ Francesco Meggetto
 : Second-year Software Engineering student at Strathclyde University. He helped
 in the analysis of Romeo & Juliette and contributed on building the website.
 
-[Amanda Kane](amanda.kane.2013@uni.strath.ac.uk)
+[Amanda Kane](mailto:amanda.kane.2013@uni.strath.ac.uk)
 : Amanda is a third year student at the University of Strathclyde studying
 English Literature and History. This is her second year involved in TextLab and
 has returned in the capacity of a Research Assistant. Her focus is Othello with
@@ -45,7 +45,7 @@ a particular emphasis on female pronouns and the use of gendered slurs
 throughout the play.
 
 
-[Evangeline Sellers](evangeline.sellers.2013@uni.strath.ac.uk)
+[Evangeline Sellers](mailto:evangeline.sellers.2013@uni.strath.ac.uk)
 : Evangeline is a third year student at the University of Strathclyde studying
 English Literature and Journalism & Creative Writing. This is her second year
 involved in TextLab and she has returned in the capacity of a Research
@@ -100,5 +100,5 @@ Shakespeare’s Romeo and Juliet, with specific attention to promises, be they
 words and sentences that are being used like promises, what type of promises
 (made/kept, broken, other), and who is using the promises spoken of in the play.
 
-[Jonathan Hope](jonathan.r.hope@strath.ac.uk)
+[Jonathan Hope](mailto:jonathan.r.hope@strath.ac.uk)
 : Professor of Literary Linguistics, University of Strathclyde
