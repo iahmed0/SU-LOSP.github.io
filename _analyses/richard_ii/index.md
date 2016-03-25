@@ -4,6 +4,8 @@ permalink: /analyses/richard_ii/
 ---
 
 
+![Wordcloud](wordcloud.png)
+
 # Nature of Kingship
 
 ## Sovereign Richard and the Divine Right of Kings
@@ -41,6 +43,7 @@ through AntConc. The results show that the word, always used when referring to
 Richard himself, appears 16 times, and it is more frequent at the beginning,
 while gradually disappearing as we approach the end of the play:
 
+![Sovereign](sovereign.png)
 
 ## Power / Weakness
 
@@ -55,7 +58,11 @@ Analysis count 19
 Analysis parts per 10,000 6.68
 Reference parts per 10,000 4.99
 
+![Power](power.png)
+
 ### Powerful
+
+![Powerful](powerful.png)
 
 Power appears 18 times in the play and powerful only one. Through a more
 in-depth analysis we found that of these 19 hits, only one refers to Richard,
@@ -158,6 +165,7 @@ deposing Richard.
 According to our findings through VocaBalance, the words stand and march are
 most significant in relation to Bolingbroke.
 
+![Significance of stand and march by characters](stand_march_by_characters.png)
 
 The use of both words shows Henry’s assertive nature, his ambition and his
 confident and demanding character:
@@ -178,13 +186,19 @@ different ways in which loyalty is conceived in the play. The words “loyal” 
 
 ### Loyal
 
+![Loyal](loyal.png)
+
 ### Loyalty
+
+![Loyalty](loyalty.png)
 
 # Loyalty to the Monarch: Mowbray and the Bishop of Carlisle
 
 Loyal and loyalty are in most cases spoken by Thomas Mowbray. In the actual plot
 of the play, Mowbray does not appear as loyal in the eyes of Richard, but our
 findings show that he is one of the few who actually are loyal.
+
+![Significance of loyalty-related words by character](loyalty_by_characters.png)
 
 The argument between Mowbray and Bolingbroke - that causes them to both be
 banished- arises from them accusing each other of being disloyal to the king.
@@ -299,6 +313,7 @@ The concordance plot is pretty even throughout the play.
 The Queen appears as the most emotional character in the play. We have found
 that some of her most spoken words are woe, hope, better, sad and joy.
 
+![Significance of emotional vocabulary by character](emotional_by_characters.png)
 
 # Relationships
 
