@@ -9,7 +9,7 @@ pdf: julius_caesar.pdf
 # Women
 
 > Portia is Brutus' harlot, not his wife
-{:title="Julius Caesar, Act 2, Scene 1"}
+{:title="Julius Caesar, Act 2, Scene 1" .highlight}
 
 Using a tool called WordHoard, we can view the words that appear in Julius
 Caesar more or less than would be expected, compared to the rest of
@@ -36,11 +36,11 @@ To give us some context, in the diagram below we can see how often the word
 "she" comes up in Julius Caesar, Hamlet, Macbeth and Othello respectively.
 
 <figure>
-    <img alt="She occurrences" title="Concordance Plots made with AntConc"
-    src="she.png" />
     <figcaption>
     Occurrence of the word "she" in Julius Caesar, Hamlet, Macbeth and Othello
     </figcaption>
+    <img alt="She occurrences" title="Concordance Plots made with AntConc"
+    src="she.png" />
 </figure>
 
 These plots don't only show how often the word "she" comes up in the four plays,
@@ -58,11 +58,11 @@ masculine and feminine pronouns in Julius Caesar, this huge discrepancy becomes
 even more apparent.
 
 <figure>
-    <img alt="He occurrences" title="Concordance Plots made with AntConc"
-    src="he.png" />
     <figcaption>
     Occurrence of the word "he" in Julius Caesar
     </figcaption>
+    <img alt="He occurrences" title="Concordance Plots made with AntConc"
+    src="he.png" />
 </figure>
 
 So, the word "he" comes up 199 times in Julius Caesar, while the word "she" only
@@ -72,7 +72,7 @@ appears 7 times which further illustrates the obvious disparity between genders.
 # Assertive language
 
 > When Caesar says "do this," it is perform'd
-{:title="Julius Caesar, Act 1, Scene 2"}
+{:title="Julius Caesar, Act 1, Scene 2" .highlight}
 
 Using an operating system called Linux, we can take the entire play of Julius
 Caesar and find the most common pairs of words (called bi-grams or 2-grams). The

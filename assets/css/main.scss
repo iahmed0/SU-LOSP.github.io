@@ -177,6 +177,8 @@ article {
     }
 
     & .content {
+        font-size: 1.1em;
+        text-align: justify;
         right: 0;
 
         & h1 {
@@ -187,7 +189,7 @@ article {
             clear: both;
         }
 
-        & blockquote {
+        & blockquote.highlight {
             font-family: "MrDeHaviland";
             font-size: 2em;
             position: relative;
@@ -199,11 +201,14 @@ article {
             quotes: "\201C""\201D""\2018""\2019";
         }
 
-        & blockquote p {
+        & blockquote.highlight p {
             font-size: 2em;
+            width: 100%;
+            display: inline-block;
+            text-align: center;
         }
 
-        & blockquote:before, & blockquote:after {
+        & blockquote.highlight:before, & blockquote.highlight:after {
             position: absolute;
             bottom: 0em;
             color: #ccc;
@@ -211,20 +216,14 @@ article {
             line-height: .5em;
         }
 
-        & blockquote:before {
+        & blockquote.highlight:before {
             content: open-quote;
             left: 0;
         }
 
-        & blockquote:after {
+        & blockquote.highlight:after {
             content: close-quote;
             right: .1em;
-        }
-
-        & blockquote p {
-            width: 100%;
-            display: inline-block;
-            text-align: center;
         }
 
         & dl {
@@ -238,7 +237,7 @@ article {
         & figure {
             width: 80%;
             margin: 2em 10% 2em 10%;
-            padding: 3% 10% 3% 10%;
+            padding: 3%;
             border-top: 1px solid lighten($link-color, 35%);
             border-bottom: 1px solid lighten($link-color, 35%);
 
