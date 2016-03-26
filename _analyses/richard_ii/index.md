@@ -1,7 +1,10 @@
 ---
 title: Richard II
 permalink: /analyses/richard_ii/
+read_play: http://shakespeare.mit.edu/richardii/full.html
+pdf: richard_ii.pdf
 ---
+
 
 
 ![Wordcloud](wordcloud.png)

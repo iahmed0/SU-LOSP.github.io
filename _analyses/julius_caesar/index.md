@@ -1,9 +1,10 @@
 ---
 title: Julius Caesar
 permalink: /analyses/julius_caesar/
+read_play: http://shakespeare.mit.edu/julius_caesar/full.html
+pdf: julius_caesar.pdf
 ---
 
-You can [download this analysis as a PDF](julius_caesar.pdf).
 
 # Women
 

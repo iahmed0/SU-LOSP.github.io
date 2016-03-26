@@ -10,6 +10,12 @@ layout: default
 <article class="col-md-9 pull-right">
   <header>
     <h2>{{ page.title }}</h2>
+    {% if page.read_play %}
+    <p><a href="{{ page.read_play }}">Read play</a></p>
+    {% endif %}
+    {% if page.pdf %}
+    <p><a href="{{ page.pdf }}">Analysis as PDF</a></p>
+    {% endif %}
   </header>
 
   <div class="content">
