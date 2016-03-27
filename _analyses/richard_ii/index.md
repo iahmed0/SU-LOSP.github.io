@@ -105,19 +105,25 @@ absolutism.
 
 The word pride is spoken about or by Richard:
 
-> “For time hath set a blot upon my pride” \\
-> (Act III, Scene II)
->
-> “I give this heavy weight from off my head \\
->  And this unwieldy sceptre from my hand, \\
->  The pride of kingly sway from out my heart” \\
->  (Act IV, Scene I)
->
-> “[…] how these vain weak nails \\
->  May tear a passage through the flinty ribs \\
->  Of this hard world, my ragged prison walls, \\
->  And, for they cannot, die in their own pride” \\
->  (Act IV, Scene V)
+<figure markdown="block">
+> For time hath set a blot upon my pride
+<figcaption>(Act III, Scene II)</figcaption>
+</figure>
+
+<figure markdown="block">
+> I give this heavy weight from off my head \\
+> And this unwieldy sceptre from my hand, \\
+> The pride of kingly sway from out my heart
+<figcaption>(Act IV, Scene I)</figcaption>
+</figure>
+
+<figure markdown="block">
+> […] how these vain weak nails \\
+> May tear a passage through the flinty ribs \\
+> Of this hard world, my ragged prison walls, \\
+> And, for they cannot, die in their own pride
+<figcaption>(Act IV, Scene V)</figcaption>
+</figure>
 
 Richard places power and significance on his own thoughts *“High be our thoughts”
 (Act III, Scene II)*. This highlights his passivity, as his thoughts are more
@@ -127,8 +133,10 @@ them.
 
 ## Tears
 
-> “With mine own tears I wash away my balm” \\
-> (Act IV, Scene I)
+<figure markdown="block">
+> With mine own tears I wash away my balm
+<figcaption>(Act IV, Scene I)</figcaption>
+</figure>
 
 Balm refers to the substance used to coronate a king, it is a symbol of
 Richard’s kingship. He talks of his tears as having power to erase his kingship.
@@ -154,28 +162,36 @@ Bolingbroke’s kingship, acquired by merit.
 The word proud also appears quite often whenever Bolingbroke makes a speech or
 someone speaks about him, particularly towards the end of the play:
 
-> “Fair cousin, you debase your princely knee \\
-> To make the base earth proud with kissing it” \\
-> (Richard to Bolingbroke, Act III, Scene III)
->
-> “Is doom'd a prisoner by proud Bolingbroke” \\
-> (Queen about Bolingbroke, Act V, Scene I)
->
-> “but my time / Runs posting on in Bolingbroke's proud joy” \\
-> (Richard about Bolingbroke, Act V, Scene V)
+<figure markdown="block">
+> Fair cousin, you debase your princely knee \\
+> To make the base earth proud with kissing it
+<figcaption>(Richard to Bolingbroke, Act III, Scene III)</figcaption>
+</figure>
+
+<figure markdown="block">
+> Is doom'd a prisoner by proud Bolingbroke
+<figcaption>(Queen about Bolingbroke, Act V, Scene I)</figcaption>
+</figure>
+
+<figure markdown="block">
+> but my time / Runs posting on in Bolingbroke's proud joy
+<figcaption>(Richard about Bolingbroke, Act V, Scene V)</figcaption>
+</figure>
 
 ## Freedom
 
 The word freedom only occurs once in the play and it is spoken by Bolingbroke.
 
-> “Nay, rather, every tedious stride I make \\
+<figure markdown="block">
+> Nay, rather, every tedious stride I make \\
 > Will but remember me what a deal of world \\
 > I wander from the jewels that I love. \\
 > Must I not serve a long apprenticehood \\
 > To foreign passages, and in the end, \\
 > Having my freedom, boast of nothing else \\
-> But that I was a journeyman to grief?” \\
-> (Act I, Scene III)
+> But that I was a journeyman to grief?
+<figcaption>(Act I, Scene III)</figcaption>
+</figure>
 
 This passage highlights Bolingbroke’s sadness at leaving England. It builds him
 up as a patriotic character and explains his motivations for returning home and
@@ -194,21 +210,28 @@ most significant in relation to Bolingbroke.
 The use of both words shows Henry’s assertive nature, his ambition and his
 confident and demanding character:
 
-> “Harry of Hereford, Lancaster and Derby am I; who ready here do stand in arms”
-> \\
-> (Act I, Scene III)
->
-> “Stand all apart, and show his fair duty to his majesty” \\
-> (Act III, Scene III)
->
-> “Cousin, stand forth, and look upon that man” \\
-> (Act IV, Scene I)
->
-> “Go, signify as much, while here we march \\
+<figure markdown="block">
+> Harry of Hereford, Lancaster and Derby am I; who ready here do stand in arms
+<figcaption>(Act I, Scene III)</figcaption>
+</figure>
+
+<figure markdown="block">
+> Stand all apart, and show his fair duty to his majesty
+<figcaption>(Act III, Scene III)</figcaption>
+</figure>
+
+<figure markdown="block">
+> Cousin, stand forth, and look upon that man
+<figcaption>(Act IV, Scene I)</figcaption>
+</figure>
+
+<figure markdown="block">
+> Go, signify as much, while here we march \\
 > Upon the grassy carpet of this plain. \\
 > Let's march without the noise of threatening drum. \\
-> [....] March on, and mark King Richard how he looks” \\
-> (Act III, Scene III)
+> [....] March on, and mark King Richard how he looks
+<figcaption>(Act III, Scene III)</figcaption>
+</figure>
 
 ## Loyalty
 
@@ -244,19 +267,22 @@ traitor, Bolingbroke sets in motion the events which lead to him becoming one.
 The Bishop of Carlisle is also loyal to Richard, often pointing out how his
 power is legitimised by God:
 
-> “[...] Would God that any in this noble presence \\
+<figure markdown="block">
+> [...] Would God that any in this noble presence \\
 > Were enough noble to be upright judge \\
 > Of noble Richard! then true noblesse would \\
 > Learn him forbearance from so foul a wrong. \\
 > What subject can give sentence on his king? \\
-> And who sits here that is not Richard's subject [...]” \\
-> (Act IV, Scene I)
+> And who sits here that is not Richard's subject [...]
+<figcaption>(Act IV, Scene I)</figcaption>
+</figure>
 
 His negative comments towards Bolingbroke’s reign in his Act IV speech,
 prophesising violent wars, confirm that he believes in the divine right of
 kings:
 
-> “[...] And if you crown him, let me prophesy: \\
+<figure markdown="block">
+> [...] And if you crown him, let me prophesy: \\
 > The blood of English shall manure the ground, \\
 > And future ages groan for this foul act; \\
 > Peace shall go sleep with Turks and infidels, \\
@@ -269,8 +295,9 @@ kings:
 > It will the woefullest division prove \\
 > That ever fell upon this cursed earth. \\
 > Prevent it, resist it, let it not be so, \\
-> Lest child, child's children, cry against you woe!” \\
-> (Act IV, Scene I)
+> Lest child, child's children, cry against you woe!
+<figcaption>(Act IV, Scene I)</figcaption>
+</figure>
 
 # Loyalty to the Country: Bolingbroke and Gaunt
 
@@ -306,11 +333,13 @@ This refers to England, its people and its world standing.
 
 Bolingbroke also uses patriotic language:
 
-> “Then, England's ground, farewell; sweet soil, adieu; \\
+<figure markdown="block">
+> Then, England's ground, farewell; sweet soil, adieu; \\
 > My mother, and my nurse, that bears me yet! \\
 > Where'er I wander, boast of this I can, \\
-> Though banish'd, yet a trueborn Englishman” \\
-> (Act I, Scene III)
+> Though banish'd, yet a trueborn Englishman
+<figcaption>(Act I, Scene III)</figcaption>
+</figure>
 
 Both characters use “nurse” to describe England:
 
@@ -365,23 +394,36 @@ by other characters.
 The main findings show that Richard has a positive view of the Queen, referring
 to her in positive terms:
 
-> “Join not with grief, fair woman, do not so, \\
+<figure markdown="block">
+> Join not with grief, fair woman, do not so, \\
 > To make my end too sudden: learn, good soul, \\
-> To think our former state a happy dream” \\
-> (Act V, Scene I).
+> To think our former state a happy dream
+<figcaption>(Act V, Scene I)</figcaption>
+</figure>
 
 The Duke of York, on the other hand, always refers to his Duchess in negative
 terms:
 
-> “Peace, foolish woman.” (Act V, Scene II)
->
-> “Thou fond mad woman” (Act V, Scene II)
->
-> “Make way, unruly woman!” (Act V, Scene II)
->
-> “Thou frantic woman, what dost thou make here? Shall thy old dugs once more a
-> traitor rear?” \\
-> (Act V, Scene III)
+<figure markdown="block">
+> Peace, foolish woman.
+<figcaption>(Act V, Scene II)</figcaption>
+</figure>
+
+<figure markdown="block">
+> Thou fond mad woman
+<figcaption>(Act V, Scene II)</figcaption>
+</figure>
+
+<figure markdown="block">
+> Make way, unruly woman!
+<figcaption>(Act V, Scene II)</figcaption>
+</figure>
+
+<figure markdown="block">
+> Thou frantic woman, what dost thou make here? Shall thy old dugs once more a
+> traitor rear?
+<figcaption>(Act V, Scene III)</figcaption>
+</figure>
 
 WordHoard shows that the pronoun she is not used as much as in other Shakespeare
 plays; this might suggest that women do not have a role in the play at all.
