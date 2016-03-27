@@ -108,16 +108,12 @@ The word pride is spoken about or by Richard:
 <figure markdown="block">
 > For time hath set a blot upon my pride
 <figcaption>(Act III, Scene II)</figcaption>
-</figure>
 
-<figure markdown="block">
 > I give this heavy weight from off my head \\
 > And this unwieldy sceptre from my hand, \\
 > The pride of kingly sway from out my heart
 <figcaption>(Act IV, Scene I)</figcaption>
-</figure>
 
-<figure markdown="block">
 > […] how these vain weak nails \\
 > May tear a passage through the flinty ribs \\
 > Of this hard world, my ragged prison walls, \\
@@ -166,14 +162,10 @@ someone speaks about him, particularly towards the end of the play:
 > Fair cousin, you debase your princely knee \\
 > To make the base earth proud with kissing it
 <figcaption>(Richard to Bolingbroke, Act III, Scene III)</figcaption>
-</figure>
 
-<figure markdown="block">
 > Is doom'd a prisoner by proud Bolingbroke
 <figcaption>(Queen about Bolingbroke, Act V, Scene I)</figcaption>
-</figure>
 
-<figure markdown="block">
 > but my time / Runs posting on in Bolingbroke's proud joy
 <figcaption>(Richard about Bolingbroke, Act V, Scene V)</figcaption>
 </figure>
@@ -213,19 +205,13 @@ confident and demanding character:
 <figure markdown="block">
 > Harry of Hereford, Lancaster and Derby am I; who ready here do stand in arms
 <figcaption>(Act I, Scene III)</figcaption>
-</figure>
 
-<figure markdown="block">
 > Stand all apart, and show his fair duty to his majesty
 <figcaption>(Act III, Scene III)</figcaption>
-</figure>
 
-<figure markdown="block">
 > Cousin, stand forth, and look upon that man
 <figcaption>(Act IV, Scene I)</figcaption>
-</figure>
 
-<figure markdown="block">
 > Go, signify as much, while here we march \\
 > Upon the grassy carpet of this plain. \\
 > Let's march without the noise of threatening drum. \\
@@ -407,19 +393,13 @@ terms:
 <figure markdown="block">
 > Peace, foolish woman.
 <figcaption>(Act V, Scene II)</figcaption>
-</figure>
 
-<figure markdown="block">
 > Thou fond mad woman
 <figcaption>(Act V, Scene II)</figcaption>
-</figure>
 
-<figure markdown="block">
 > Make way, unruly woman!
 <figcaption>(Act V, Scene II)</figcaption>
-</figure>
 
-<figure markdown="block">
 > Thou frantic woman, what dost thou make here? Shall thy old dugs once more a
 > traitor rear?
 <figcaption>(Act V, Scene III)</figcaption>
