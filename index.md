@@ -11,8 +11,7 @@ layout: default
     <h2>{{ page.title }}</h2>
   </header>
 
-  <div class="content">
-    <div class="col-md-9" markdown="block">
+  <div class="content" class="col-md-9" markdown="block">
 Welcome to *Language of Shakespeare’s Plays*. Our aim is to provide new and
 interesting analyses of Shakespeare’s works to find things that are not always
 visible to the naked eye.
@@ -32,6 +31,5 @@ and we will be continually adding and expanding our research.
 
 If you have any queries or additional input please feel free to contact us using
 the email addresses found on the [Contributors](/contributors/) page.
-    </div>
   </div>
 </article>
