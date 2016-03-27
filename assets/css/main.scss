@@ -234,6 +234,7 @@ article {
         }
 
         & figure {
+            text-align: center;
             width: 80%;
             margin: 2em 10% 2em 10%;
             padding: 3%;
@@ -244,9 +245,13 @@ article {
                 width: 100%;
             }
 
+            & blockquote {
+                text-align: left;
+                display: inline-block;
+            }
+
             & figcaption {
-                margin: 1em 0 1em 0;
-                text-align: center;
+                margin: 0 0 1em 0;
             }
         }
     }
