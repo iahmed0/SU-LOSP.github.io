@@ -196,7 +196,7 @@ most significant in relation to Bolingbroke.
 
 <figure>
     <img alt="Significance of stand and march by characters"
-    src="stand_march_by_characters.png" />
+    src="stand_march_by_characters.svg" />
 </figure>
 
 The use of both words shows Henry’s assertive nature, his ambition and his
@@ -240,7 +240,7 @@ findings show that he is one of the few who actually are loyal.
 
 <figure>
     <img alt="Significance of loyalty-related words by character"
-    src="loyalty_by_characters.png" />
+    src="loyalty_by_characters.svg" />
 </figure>
 
 The argument between Mowbray and Bolingbroke - that causes them to both be
@@ -369,7 +369,7 @@ that some of her most spoken words are woe, hope, better, sad and joy.
 
 <figure>
     <img alt="Significance of emotional vocabulary by character"
-    src="emotional_by_characters.png" />
+    src="emotional_by_characters.svg" />
 </figure>
 
 # Relationships
