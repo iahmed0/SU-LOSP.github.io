@@ -39,12 +39,12 @@ The results will be illustrated below.
 ## Sovereignty
 
 The divine right of kings is directly linked to the concept of sovereignty,
-defined by the Encyclopedia Britannica as “a theory of politics which claims
-that in every system of government there must be some absolute power of final
-decision exercised by some person or body recognized both as competent to decide
-and as able to enforce the decision”[^1]
+[defined by the Encyclopedia Britannica][sovereignty] as “a theory of politics
+which claims that in every system of government there must be some absolute
+power of final decision exercised by some person or body recognized both as
+competent to decide and as able to enforce the decision”.
 
-[^1]: <http://www.encyclopedia.com/topic/sovereignty.aspx>
+[sovereignty]: http://www.encyclopedia.com/topic/sovereignty.aspx
 
 We have conducted a research on the use of the term sovereign in Richard II
 through AntConc. The results show that the word, always used when referring to
