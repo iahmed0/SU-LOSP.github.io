@@ -29,7 +29,8 @@ part of an ongoing collaborative project between the Computer & Information
 Science and English Literature Departments. It is currently a work in progress
 and we will be continually adding and expanding our research.
 
-If you have any queries or additional input please feel free to contact us using
-the email addresses found on the [Contributors](/contributors/) page.
+If you have any queries or additional input please feel free to contact us at
+<enquiries@losp.us> or at any of the email addresses found on the
+[Contributors](/contributors/) page.
   </div>
 </article>
