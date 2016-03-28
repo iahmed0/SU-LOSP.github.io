@@ -76,6 +76,12 @@ img {
     width: 100%;
 }
 
+abbr {
+    color: $link-color;
+    text-decoration: none;
+    border: none !important;
+}
+
 #header {
     font-family: "Alegreya";
     font-size: 18px;

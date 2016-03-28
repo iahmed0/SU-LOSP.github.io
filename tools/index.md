@@ -23,6 +23,7 @@ stage and it can be used to determine when characters meet each other.
     6,SIR ANDREW
     …
 
+*[CSV table]: Comma Separated Values table or spreadsheet
 
 ## [Vocabalance](https://gitlab.sphalerite.org/linus/vocabalance/)
 
