@@ -35,7 +35,7 @@ and negativity and produced some graphs to display this information.
 
 Francesco Meggetto
 : Second-year Software Engineering student at Strathclyde University. He helped
-in the analysis of Romeo & Juliette and contributed on building the website.
+in the analysis of Romeo & Juliet and contributed on building the website.
 
 Amanda Kane <amanda.kane.2013@uni.strath.ac.uk>
 : Amanda is a third year student at the University of Strathclyde studying
