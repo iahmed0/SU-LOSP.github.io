@@ -100,5 +100,13 @@ Shakespeare’s Romeo and Juliet, with specific attention to promises, be they
 words and sentences that are being used like promises, what type of promises
 (made/kept, broken, other), and who is using the promises spoken of in the play.
 
+Sylwia Slominska
+: Sylwia is a third year exchange student from the University Paris 8 Vincennes
+Saint - Denis where she studies Linguistics and Media. Her contribution to
+Shakespeare's play Twelfth Night involves a close study of men and women's roles
+in relation to the very comic character of the play. She is also part of the
+team undertaking the creation of a poster for the Vertically Integrated Projects
+(VIP) Conference.
+
 Jonathan Hope <jonathan.r.hope@strath.ac.uk>
 : Professor of Literary Linguistics, University of Strathclyde
