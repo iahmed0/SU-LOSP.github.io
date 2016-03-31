@@ -31,7 +31,7 @@ character in terms of driving the action forward, while Sir Andrew is more of a
 counterpoint to Sir Toby.
 
 It is noticeable too how Duke Orsino, decisive to the play's argument, doesn't
-appear very often and instead Fabian speaks for him.
+appear very often.
 
 We can also see how the appearances of Viola and Toby, each on a different
 subplot, interleave prior to Act 3, when both subplots meet.
