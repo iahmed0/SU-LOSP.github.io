@@ -22,7 +22,7 @@ additional tools to help gain further insight into the texts, and contributing
 to the analysis of Richard II.
 
 Mohamed Amine Belabbes
-: Second (or First) year Computer Science (I know) at Strathclyde University. He contributed
+: Second year Computer Science at Strathclyde University. He contributed
 into putting together the website and generated graphs for the different plays
 using R. He also contributed to the analysis of Romeo & Juliet.
 
