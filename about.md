@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: About us
 ---
 
 Rebecca Russell <rebecca.e.russell.2013@uni.strath.ac.uk>
