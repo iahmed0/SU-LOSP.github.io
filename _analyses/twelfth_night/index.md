@@ -8,8 +8,8 @@ read_play: http://shakespeare.mit.edu/twelfth_night/full.html
 # Character interaction
 
 The interaction between characters plays a central role in this play.
-Information about the structure of the play and insight into its argument itself
-can be extracted by computing when main characters meet each other on stage.
+Information about the structure of the play and insight into its plot itself can
+be extracted by computing when main characters meet each other on stage.
 
 Using a [tagged version of the
 play](http://shakespeare.mit.edu/twelfth_night/full.html) and
