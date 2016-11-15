@@ -35,7 +35,7 @@ generating a “significance index” based on:
  - How often other characters use the word
 
 We used this to perform in-depth analysis of characters on [Richard
-II](/analyses/richard-ii).
+II](/analyses/richard_ii).
 
 
 ## [AntConc](http://www.laurenceanthony.net/software/antconc/)
