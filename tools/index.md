@@ -54,6 +54,8 @@ An application for the close reading and scholarly analysis of texts, largely
 used on this project for determining the log-likelihoods of specific words and
 generating word clouds to display this information in a user-friendly manner.
 
+We have [a guide for using WordHoard](wordhoard-howto.pdf).
+
 ## [Ubiqu+ity](http://vep.cs.wisc.edu/ubiq/)
 
 Generates statistics and identifies linguistic patterns and groups.
