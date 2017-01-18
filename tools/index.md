@@ -5,6 +5,8 @@ permalink: /tools/
 
 For further information and to download, please follow the links below.
 
+Texts are available [here](shakespeare.zip).
+
 ## [characters.py](/tools/characters.py)
 
 A little Python 3 script we created that fetches a Shakespeare play from
