@@ -5,6 +5,8 @@ permalink: /tools/
 
 For further information and to download, please follow the links below.
 
+Texts are available [here](shakespeare.zip).
+
 ## [characters.py](/tools/characters.py)
 
 A little Python 3 script we created that fetches a Shakespeare play from
@@ -51,6 +53,8 @@ A freeware text analysis toolkit for concordancing and text analysis. Can be use
 An application for the close reading and scholarly analysis of texts, largely
 used on this project for determining the log-likelihoods of specific words and
 generating word clouds to display this information in a user-friendly manner.
+
+We have [a guide for using WordHoard](wordhoard-howto.pdf).
 
 ## [Ubiqu+ity](http://vep.cs.wisc.edu/ubiq/)
 
