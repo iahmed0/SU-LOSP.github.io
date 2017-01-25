@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Welcome
 layout: default
 ---
 
