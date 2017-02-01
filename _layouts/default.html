@@ -22,16 +22,16 @@
               <div id="plays-arrow" class="arrow-right"></div>
               Plays
             </a>
+            <div id="plays">
+              <ul>
+                {% for analysis in site.analyses %}
+                <li><a href="{{ analysis.url }}">{{ analysis.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
           </li>
           <li><a href="/tools/">Tools</a></li>
           <li><a href="/about/">About us</a></li>
-          <div id="plays">
-            <ul>
-              {% for analysis in site.analyses %}
-              <li><a href="{{ analysis.url }}">{{ analysis.title }}</a></li>
-              {% endfor %}
-            </ul>
-          </div>
         </ul>
       </nav>
     </header>

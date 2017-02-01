@@ -120,11 +120,20 @@ abbr {
 
         & #plays.open {
             display: block;
+            position: relative;
+        }
+
+        & #plays ul {
+            padding: 0;
         }
 
         & #plays li {
+            padding: 0 .5em 0 .5em;
             line-height: 100%;
             list-style-type: square;
+	    display: block;
+	    background: #ffffff;
+	    text-align: left;
         }
     }
 }
