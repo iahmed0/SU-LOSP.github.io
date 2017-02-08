@@ -103,6 +103,7 @@ abbr {
 
         & ul {
             margin: 0;
+            font-size: 16pt;
         }
 
         & li {
@@ -120,20 +121,20 @@ abbr {
 
         & #plays.open {
             display: block;
-            position: relative;
         }
 
         & #plays ul {
             padding: 0;
+            position: absolute;
         }
 
         & #plays li {
-            padding: 0 .5em 0 .5em;
+            padding: 0 .5em .4em .5em;
             line-height: 100%;
             list-style-type: square;
-	    display: block;
-	    background: #ffffff;
-	    text-align: left;
+            display: block;
+            background: #ffffff;
+            text-align: left;
         }
     }
 }
