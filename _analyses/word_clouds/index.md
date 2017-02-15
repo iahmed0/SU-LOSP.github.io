@@ -26,7 +26,7 @@ investigate further.
 ![Hamlet word cloud](hamlet.png)
 
 # Julius Caesar
-![Julius Caesar word cloud](julius_caesar.png)
+[![Julius Caesar word cloud](julius_caesar.png)](/analyses/julius_caesar)
 
 # Othello
 ![Othello word cloud](othello.png)
@@ -35,10 +35,10 @@ investigate further.
 ![Macbeth word cloud](macbeth.png)
 
 # Romeo and Juliet
-![Romeo and Juliet word cloud](romeo_and_juliet.png)
+[![Romeo and Juliet word cloud](romeo_and_juliet.png)](/analyses/romeo_and_juliet)
 
 # Richard II
-![Richard II word cloud](richard_ii.png)
+[![Richard II word cloud](richard_ii.png)](/analyses/richard_ii)
 
 # A Midsummer Night’s Dream
 ![A Midsummer Night's Dream word cloud](a_midsummer_nights_dream.png)
@@ -53,5 +53,5 @@ investigate further.
 ![Merchant of Venice word cloud](merchant_of_venice.png)
 
 # Twelfth Night
-![Twelfth Night word cloud](twelfth_night.png)
+[![Twelfth Night word cloud](twelfth_night.png)](/analyses/twelfth_night)
 

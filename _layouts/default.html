@@ -22,16 +22,16 @@
               <div id="plays-arrow" class="arrow-right"></div>
               Plays
             </a>
+            <div id="plays">
+              <ul>
+                {% for analysis in site.analyses %}
+                <li><a href="{{ analysis.url }}">{{ analysis.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
           </li>
           <li><a href="/tools/">Tools</a></li>
           <li><a href="/about/">About us</a></li>
-          <div id="plays">
-            <ul>
-              {% for analysis in site.analyses %}
-              <li><a href="{{ analysis.url }}">{{ analysis.title }}</a></li>
-              {% endfor %}
-            </ul>
-          </div>
         </ul>
       </nav>
     </header>
@@ -70,7 +70,6 @@
 
     <script charset="utf-8">
       document.getElementById("open-plays").onclick = function(e) {
-        e.preventDefault();
         document.getElementById("plays").classList.toggle("open");
         document.getElementById("plays-arrow").classList.toggle("arrow-right");
         document.getElementById("plays-arrow").classList.toggle("arrow-down");
