@@ -5,7 +5,11 @@ read_play: http://shakespeare.mit.edu/richardii/full.html
 pdf: richard_ii.pdf
 ---
 
-
+<br>
+Using a tool called WordHoard, we can view the words that appear in Richard II 
+more or less than would be expected, compared to the rest of
+Shakespeare’s plays.  The words in black appear more frequently in Richard II
+than in other plays; words in grey appear less frequently.
 
 <figure>
     <img alt="Wordcloud" src="wordcloud.png" />
