@@ -189,8 +189,9 @@ article {
         text-align: center;
 
         & h2 {
-            margin: 0 0 2em 0;
-        }
+            margin: 0 0 1em 0;
+	    font-size: 4em;
+       }
     }
 
     & .content {
@@ -199,6 +200,8 @@ article {
 
         & h1 {
             margin: 2em 0 1em 0;
+	    text-align: center;
+	    text-decoration: underline
         }
 
         & h1, & h2, & h3, & h4, & h5, & h6 {
@@ -295,3 +298,4 @@ footer {
 .center {
     text-align: center;
 }
+
