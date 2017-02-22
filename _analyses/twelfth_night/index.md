@@ -2,6 +2,10 @@
 title: Twelfth Night
 permalink: /analyses/twelfth_night/
 read_play: http://shakespeare.mit.edu/twelfth_night/full.html
+year: 1601-1602
+summary: Commedy that plays with misunderstandings concearning love,
+         cross-dressing and sexual attraction and explores the concept of
+         gender.
 ---
 
 
