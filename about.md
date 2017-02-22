@@ -10,9 +10,9 @@ Julius Caesar, specifically the use of masculine and feminine pronouns and the
 use of Caesar’s name in the play.
 
 Unai Zalakain
-: Second year Computer Science student at Strathclyde University. He has put
-together this website and created the small [`characters.py`](/tools/) analysis
-script.
+: Third year Computer Science student at the University of Strathclyde,
+contributed with some analysis tools, bootstrapped the website and helped with
+the analysis of Twelfth Night.
 
 Linus Heckemann
 : Linus is a second-year student at the University of Strathclyde studying
