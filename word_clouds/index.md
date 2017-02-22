@@ -1,5 +1,6 @@
 ---
 title: Word Clouds
+layout: analysis
 ---
 
 Word Clouds are a feature of WordHoard that display the relative use of words in
