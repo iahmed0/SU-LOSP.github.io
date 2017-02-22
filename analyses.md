@@ -1,5 +1,5 @@
 ---
-title: Analyses
+title: Plays
 layout: page
 ---
 
