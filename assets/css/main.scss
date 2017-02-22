@@ -183,6 +183,12 @@ main {
     }
 }
 
+article#welcome {
+    h1, h2, h3, h4, h5, h6 {
+        text-align: center;
+    }
+}
+
 article {
     & header {
         width: 100%;
@@ -190,7 +196,7 @@ article {
 
         & h2 {
             margin: 0 0 1em 0;
-	    font-size: 4em;
+	        font-size: 4em;
        }
     }
 

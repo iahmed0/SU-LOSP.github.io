@@ -3,7 +3,7 @@ title: Welcome
 layout: default
 ---
 
-<article>
+<article id="welcome">
   <header>
     <div id="logo" class="col-md-3">
       <img alt="Little Shakespeare" src="/assets/images/shakespeare.png" />
@@ -28,6 +28,8 @@ This website is run by a group of students from the University of Strathclyde as
 part of an ongoing collaborative project between the Computer & Information
 Science and English Literature Departments. It is currently a work in progress
 and we will be continually adding and expanding our research.
+
+### Contact Info
 
 If you have any queries or additional input please feel free to contact us at
 <enquiries@losp.us> or at any of the email addresses found on the
