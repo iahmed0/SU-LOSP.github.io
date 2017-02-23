@@ -3,6 +3,12 @@ title: Romeo and Juliet
 permalink: /analyses/romeo_and_juliet/
 read_play: http://shakespeare.mit.edu/romeo_juliet/full.html
 pdf: RJ.pdf
+year: 1591-1595
+summary: Young lovers, light and darkness, positivity and negativity…
+  Romeo and Juliet is a play which transcends space and time.
+  The dualities present in the play remain relevant to today’s world,
+  we devoted to the play an in depth analysis of these dualities
+  while exploring new themes such as promises and their predominance in the play.
 ---
 
 
@@ -12,8 +18,8 @@ pdf: RJ.pdf
 
 
 
-It is obvious that Romeo and Juliet is a play that is centered around identity; the plot contains two forbidden lovers who cannot be together because of their family names. However, the importance of investigating this on a much deeper scale became clear as we looked into the play further. Identity is not as simple as it seems in Romeo and Juliet. Some characters are conflicted with the concept, whereas others seem indifferent towards it. 
-Using a tool called AntConc, we can see the number of times the word ‘name’ appears throughout a selection of Shakespeare plays. Evidently, it is most predominantly present in Romeo and Juliet. 
+It is obvious that Romeo and Juliet is a play that is centered around identity; the plot contains two forbidden lovers who cannot be together because of their family names. However, the importance of investigating this on a much deeper scale became clear as we looked into the play further. Identity is not as simple as it seems in Romeo and Juliet. Some characters are conflicted with the concept, whereas others seem indifferent towards it.
+Using a tool called AntConc, we can see the number of times the word ‘name’ appears throughout a selection of Shakespeare plays. Evidently, it is most predominantly present in Romeo and Juliet.
 
 
 <figure>
@@ -41,7 +47,7 @@ AntConc allowed us to view the occurrences of this specific word through present
     src="act2scene2.png" />
 </figure>
 
-In one of her most famous lines, it is clear that Juliet questions the weight that this specific word holds. She challenges the notion that the title an object or person holds in fact defines them, claiming that without their title they would still remain the same. This suggests that it is not a name which gives a thing its essential qualities, it is not the defining factor. A name is in fact arbitrary, irrelevant, or unnecessary to an extent. Changing your name does not change your identity. 
+In one of her most famous lines, it is clear that Juliet questions the weight that this specific word holds. She challenges the notion that the title an object or person holds in fact defines them, claiming that without their title they would still remain the same. This suggests that it is not a name which gives a thing its essential qualities, it is not the defining factor. A name is in fact arbitrary, irrelevant, or unnecessary to an extent. Changing your name does not change your identity.
 It is clear that the play prompts you to consider the relationship between word and meaning, between name and being. These two lovers attempt to negotiate an identity independent of family name. The hero and heroine are nameless when they meet and fall in love; their subsequent identification by family labels bring with it emotional and cultural baggage.  
 
 <figure>
@@ -51,8 +57,8 @@ It is clear that the play prompts you to consider the relationship between word 
 
 # A Conclusion
 
-In Romeo and Juliet, it could be argued that the name is the essence of the love between the two. Although they are besotted with one another before they discover the history between the family, the very fact that they are from a different namesake creates a passionate, intense, forbidden love scenario from which neither of them can abstain. 
-Juliet is tortured by Romeo’s identity: “Why are you Romeo?” So much so, that the protagonist begins to proclaim that he will change his title. 
+In Romeo and Juliet, it could be argued that the name is the essence of the love between the two. Although they are besotted with one another before they discover the history between the family, the very fact that they are from a different namesake creates a passionate, intense, forbidden love scenario from which neither of them can abstain.
+Juliet is tortured by Romeo’s identity: “Why are you Romeo?” So much so, that the protagonist begins to proclaim that he will change his title.
 To an extent, existence is based on the very fact that you hold a title, you occupy a space and time through your overall being, which in some part owes thanks to your name.
 
 
@@ -66,11 +72,11 @@ Thus, it could be argued that the name is an artificial and meaningless conventi
 
 # Romeo vs Juliet
 
-It should also be noted that Romeo, is a word that appears 128 times in the play, whereas Juliet only appears 44 times. This is a significant difference between the two who are both protagonists and title characters. This correlates significantly as it ties in with the concept of identity, and Juliet’s incessant need to call Romeo by his title whilst still proving the importance of name in terms of identity. 
+It should also be noted that Romeo, is a word that appears 128 times in the play, whereas Juliet only appears 44 times. This is a significant difference between the two who are both protagonists and title characters. This correlates significantly as it ties in with the concept of identity, and Juliet’s incessant need to call Romeo by his title whilst still proving the importance of name in terms of identity.
 
 # Pet Names in Romeo and Juliet
 
-Juliet is fascinated with saying her lovers name 36 times throughout the play, whilst Romeo is subtle, only speaking her name 17 times and continues to call her by ‘pet names.’ 
+Juliet is fascinated with saying her lovers name 36 times throughout the play, whilst Romeo is subtle, only speaking her name 17 times and continues to call her by ‘pet names.’
 Thus, it is clear that Romeo tends to call Juliet by nicknames that are tender and affectionate instead of addressing her by her title. This could suggest that perhaps Romeo is not caught up in the idea of identity in the same way that Juliet is. He views her as something more than a title. For him, a name is not significant. But for Juliet, she needs to prove to herself and convince her own self that a name is not necessarily an indicator of identity. She repeats his name constantly, hinting that perhaps she is more caught up in it than she thinks. She is a character who finds it necessary to call him by his defining title yet contradicts herself when she fights against it. She is a conflicting being.
 
 
@@ -81,7 +87,7 @@ Thus, it is clear that Romeo tends to call Juliet by nicknames that are tender a
 
 # Confidence versus Uncertainty
 
-I am looking at the play from an angle that questions whether the overall play is a play of confidence or a play of uncertainty and doubt. 
+I am looking at the play from an angle that questions whether the overall play is a play of confidence or a play of uncertainty and doubt.
 Using computer programme Ubiquity, we can see highlighted words in the whole text that are semantically connected to a specific topic, in this case Confidence and Uncertainty. It also presents an overall number of such words, making it very presentable to the user.
 
 <figure>
@@ -92,10 +98,10 @@ Using computer programme Ubiquity, we can see highlighted words in the whole tex
     </figcaption>
 </figure>
 
-From the Ubiquity, it can be already seen that the play contains significantly more uncertain words than words of confidence. However, it is imperative to double check if the words really mean what they suppose to. By doing that, one can also see the layout of the play and how these words are integrated in the text. Interestingly, the word of confidence ‘know’ is presented first in the middle of the act 1, scene 1, line 121 (Prince Escalus: “To know our further pleasure in this case”), followed by many other words of confidence. The word ‘seem’ as the first word of uncertainty is presented later in act 1, scene 1, line 185 (Romeo: “Ay me! sad hours seem long.”). It could be argued that the play started with confident content, leading the readers to believe that the play and its characters are certain in what they are saying therefore behaving. However, the end of the play does not present that the same observation. More and more words of uncertainly are presented as the reader reads closer to the end and two of those words (some, things) finalise the play in act 5, scene 3, 
-lines 3283 and 3284 (Prince Escalus: “Go hence, to have more talk of these sad things; Some shall be pardon'd, and some punished”). 
-To deeper understand Romeo and Juliet, one should always ask themselves whether the play is different from other Shakespearean plays or similar, and to what extent the differences and similarities portray the real understanding of Romeo and Juliet. 
-Using computer programme AntConc, we can see how many times a specific word or a symbol is used in the play and exactly where and when in the play that occurs. Continuing with the research of uncertainty versus confidence, a question mark (?) in the play would be interesting to explore as it presents a sense of questioning therefore uncertainty. 
+From the Ubiquity, it can be already seen that the play contains significantly more uncertain words than words of confidence. However, it is imperative to double check if the words really mean what they suppose to. By doing that, one can also see the layout of the play and how these words are integrated in the text. Interestingly, the word of confidence ‘know’ is presented first in the middle of the act 1, scene 1, line 121 (Prince Escalus: “To know our further pleasure in this case”), followed by many other words of confidence. The word ‘seem’ as the first word of uncertainty is presented later in act 1, scene 1, line 185 (Romeo: “Ay me! sad hours seem long.”). It could be argued that the play started with confident content, leading the readers to believe that the play and its characters are certain in what they are saying therefore behaving. However, the end of the play does not present that the same observation. More and more words of uncertainly are presented as the reader reads closer to the end and two of those words (some, things) finalise the play in act 5, scene 3,
+lines 3283 and 3284 (Prince Escalus: “Go hence, to have more talk of these sad things; Some shall be pardon'd, and some punished”).
+To deeper understand Romeo and Juliet, one should always ask themselves whether the play is different from other Shakespearean plays or similar, and to what extent the differences and similarities portray the real understanding of Romeo and Juliet.
+Using computer programme AntConc, we can see how many times a specific word or a symbol is used in the play and exactly where and when in the play that occurs. Continuing with the research of uncertainty versus confidence, a question mark (?) in the play would be interesting to explore as it presents a sense of questioning therefore uncertainty.
 
 
 <figure>
@@ -106,18 +112,18 @@ Using computer programme AntConc, we can see how many times a specific word or a
     </figcaption>
 </figure>
 
-With the use of AntConc result, it was clearer to the readers to create a bar chart rather than presenting the raw results. As the Figure 1 above shows, question mark in Romeo and Juliet occurs around 1700 times; this is significantly more than in A Midsummer Night’s Dream, Julius Caesar and Twelfth Night. However, Othello presents even more question marks than Romeo and Juliet. This could occur due to the nature of Othello as it is not only a tragic play but also a play of uncertainty, in which characters continuously question their fidelity, truthfulness and promise. 
+With the use of AntConc result, it was clearer to the readers to create a bar chart rather than presenting the raw results. As the Figure 1 above shows, question mark in Romeo and Juliet occurs around 1700 times; this is significantly more than in A Midsummer Night’s Dream, Julius Caesar and Twelfth Night. However, Othello presents even more question marks than Romeo and Juliet. This could occur due to the nature of Othello as it is not only a tragic play but also a play of uncertainty, in which characters continuously question their fidelity, truthfulness and promise.
 As the result of the AntCont shows a high occurrence of question marks in the play, taking a closer look at the characters is important to see whether a feeling of uncertainly is specific for a character or the overall play. With the help of computer science student and using the operating system Linux, the question mark was examined further and focused on how many times a character asked a question.
 
 <figure>
     <img alt="Question Marks count in sentences" title="Number of times a question sentence ends with the question mark"
     src="countOfqS.png"/>
     <figcaption>
-    Figure 2: Bar chart presents a number of question marks in sentences spoken by characters 
+    Figure 2: Bar chart presents a number of question marks in sentences spoken by characters
     </figcaption>
 </figure>
 
-As Figure 2 above shows, Romeo and Juliet ask the most questions, which is understandable because they are the main protagonists of the play. However, interestingly, Juliet asks around ten more questions than Romeo. Therefore, it could be also argued that the play itself is not only uncertain but also the characters, especially Juliet portray a sense of uncertainty to the reader. 
+As Figure 2 above shows, Romeo and Juliet ask the most questions, which is understandable because they are the main protagonists of the play. However, interestingly, Juliet asks around ten more questions than Romeo. Therefore, it could be also argued that the play itself is not only uncertain but also the characters, especially Juliet portray a sense of uncertainty to the reader.
 With the use of AntConc, it is possible to examine specific words of confidence and uncertainty in greater detail, especially to see the frequency of such words in other Shakespearean plays. As Figure 3 below shows the concordance plot of AntConc’s results, ‘I will’ or ‘I’ll’ occurs significantly more in Romeo and Juliet than in other plays. This is presented in a light of confidence. However, one should keep in mind that shown results of frequency of one word cannot generate an overall interpretation of the play. Therefore, looking at other words of confidence would be imperative.
 
 <figure>
@@ -151,7 +157,7 @@ As Figure 4 below shows the concordance plot of the word ‘know’, including �
 
 On the other hand, looking at the words of uncertainty, word ‘some’ occurs often enough to support the argument that the play’s content as well as character’s speech and behavior portray uncertain atmosphere, as it is shown below in the Figure 5. However, Othello again scores the highest.
 
-LADY CAPULET: “The people in the street cry Romeo, Some Juliet, and some Paris; and all run.” (act 5, scene 3, lines 191, 192) 
+LADY CAPULET: “The people in the street cry Romeo, Some Juliet, and some Paris; and all run.” (act 5, scene 3, lines 191, 192)
 
 <figure>
     <img alt="Act 5" title="Act 5, Scene 3, Lines 191-2"
@@ -160,7 +166,7 @@ LADY CAPULET: “The people in the street cry Romeo, Some Juliet, and some Paris
 
 <figure>
     <figcaption>
-    Figure 5: Concordance plot for 'some' 
+    Figure 5: Concordance plot for 'some'
     </figcaption>
     <img alt="Figure 5" title="Concordance plot for 'some'"
     src="figure5.png" />
@@ -177,7 +183,7 @@ FRIAR LAURENCE: “Stay, then; I'll go alone. Fear comes upon me: O, much I fear
 
 <figure>
     <figcaption>
-    Figure 6: Concordance plot for 'thing' 
+    Figure 6: Concordance plot for 'thing'
     </figcaption>
     <img alt="Figure 6" title="Concordance plot for 'thing'"
     src="figure6.png" />
@@ -340,7 +346,7 @@ The chart above shows the break down off every person who made a promise and who
     src="whPromises.png" />
 </figure>
 
-This chart breaks down every promise made in the whole entire play into the three categories of promises. They are even further divided based off of who is making the promises and to whom those promises are being made to in the play. This allows for you to get an idea of the total promises that each character made and how they fall into the three categories of the types of plays. Some characters only make one type of play and some make a variety of different promises. Some promises in this play actually are doubled up with promises to multiple characters at once or talking about a couple of different promises all at the same time. This bring us up to a new total of 86 promises in the play all together as it now includes promises that talk about multiple promises at the same time. 
+This chart breaks down every promise made in the whole entire play into the three categories of promises. They are even further divided based off of who is making the promises and to whom those promises are being made to in the play. This allows for you to get an idea of the total promises that each character made and how they fall into the three categories of the types of plays. Some characters only make one type of play and some make a variety of different promises. Some promises in this play actually are doubled up with promises to multiple characters at once or talking about a couple of different promises all at the same time. This bring us up to a new total of 86 promises in the play all together as it now includes promises that talk about multiple promises at the same time.
 
 <figure>
     <img alt="Promises by roles" title="Promises by roles"
