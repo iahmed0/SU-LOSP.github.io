@@ -3,6 +3,8 @@ title: Richard II
 permalink: /analyses/richard_ii/
 read_play: http://shakespeare.mit.edu/richardii/full.html
 pdf: richard_ii.pdf
+year: 1595
+summary: A history exploring the downfall of King Richard II of England.
 ---
 
 <br>

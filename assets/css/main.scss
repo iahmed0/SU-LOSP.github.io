@@ -6,7 +6,7 @@
 
 $text-color: #000;
 $link-color: #777;
-$boxed-color: #f9f9f9;
+$boxed-color: #f0f0f0;
 
 
 @font-face {
@@ -44,24 +44,20 @@ a {
 $arrow-size: .8em;
 $arrow-margin-correction: .6em;
 
-.arrow {
+#plays-arrow {
     display: inline-block;
     height: 0;
     font-size: 35%;
     margin-right: .5em;
     text-decoration: none;
-}
 
-.arrow-right {
-    @extend .arrow;
     margin-left: $arrow-margin-correction;
     border-top: $arrow-size solid transparent;
     border-bottom: $arrow-size solid transparent;
     border-left: $arrow-size solid $link-color;
 }
 
-.arrow-down {
-    @extend .arrow;
+#open-plays:hover #plays-arrow {
     border-left: $arrow-size solid transparent;
     border-right: $arrow-size solid transparent;
     border-top: $arrow-size solid $link-color;
@@ -85,7 +81,7 @@ abbr {
 #header {
     font-family: "Alegreya";
     font-size: 18px;
-    margin: 2em 0 2em 0;
+    margin: 2em 0 1em 0;
 
     & h1 {
         margin: 0;
@@ -120,10 +116,12 @@ abbr {
             width: 100%;
         }
 
-        & #plays.open {
-            display: block;
+        & #open-plays:hover {
+            & #plays {
+                display: block;
+            }
         }
-        
+
         & #plays ul {
             padding: 0;
             position: absolute;
@@ -183,9 +181,31 @@ main {
     }
 }
 
-article#welcome {
+#welcome {
     h1, h2, h3, h4, h5, h6 {
         text-align: center;
+    }
+}
+
+#analyses .play {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    vertical-align: top;
+    padding: 1em;
+    margin: 0 1% 3em 1%;
+
+    &:hover {
+        text-decoration: none;
+        background-color: $boxed-color;
+    }
+
+    & h2 {
+        margin: 0;
+    }
+
+    & summary {
+        text-align: justify;
     }
 }
 
@@ -196,7 +216,7 @@ article {
 
         & h2 {
             margin: 0 0 1em 0;
-	        font-size: 4em;
+            font-size: 3em;
        }
     }
 
