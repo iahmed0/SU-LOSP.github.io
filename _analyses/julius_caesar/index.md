@@ -4,12 +4,11 @@ permalink: /analyses/julius_caesar/
 read_play: http://shakespeare.mit.edu/julius_caesar/full.html
 pdf: julius_caesar.pdf
 year: 1599
-summary: Written in 1599, Julius Caesar is part of a series of plays by Shakespeare
-  which are based on true events. In this analyses of the play, you will find
-  a breakdown of the gender imbalance present in the play, where,
-  uncommonly with Shakespeare, the ‘he’ is more present than the ‘she’.
-  Finally, we expose the dominion of the assertive language
-  and how the name ‘Caesar’ impacts the play.
+summary: Julius Caesar is part of a series of plays by Shakespeare which are
+  based on true events. In this analyses of the play, you will find a breakdown
+  of the gender imbalance present in the play, where, uncommonly with
+  Shakespeare, the ‘he’ is more present than the ‘she’.  Finally, we expose the
+  dominion of the assertive language and how the name ‘Caesar’ impacts the play.
 ---
 
 
