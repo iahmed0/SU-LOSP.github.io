@@ -170,6 +170,11 @@ main {
 
         & li {
             list-style: none;
+            padding: .3em;
+            &.active {
+              background-color: #eeeeee;
+              border-radius: .4em;
+            }
         }
     }
 
