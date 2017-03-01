@@ -27,7 +27,7 @@ stage and it can be used to determine when characters meet each other.
 
 *[CSV table]: Comma Separated Values table or spreadsheet
 
-## [Vocabalance](https://gitlab.sphalerite.org/linus/vocabalance/)
+## [Vocabalance](https://github.com/SU-LOSP/vocabalance/)
 
 A tool that analyses the frequency with which each character uses a word,
 generating a “significance index” based on:
