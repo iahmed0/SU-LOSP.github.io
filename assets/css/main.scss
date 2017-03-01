@@ -78,6 +78,8 @@ abbr {
     border: none !important;
 }
 
+$grey_background: #eeeeee;
+
 #header {
     font-family: "Alegreya";
     font-size: 18px;
@@ -132,7 +134,7 @@ abbr {
             line-height: 100%;
             list-style-type: square;
             display: block;
-            background: #ffffff;
+            background-color: $grey_background;
             text-align: left;
         }
     }
@@ -172,7 +174,7 @@ main {
             list-style: none;
             padding: .3em;
             &.active {
-              background-color: #eeeeee;
+              background-color: 
               border-radius: .4em;
             }
         }
