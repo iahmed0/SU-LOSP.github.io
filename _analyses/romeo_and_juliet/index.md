@@ -5,10 +5,10 @@ read_play: http://shakespeare.mit.edu/romeo_juliet/full.html
 pdf: RJ.pdf
 year: 1591-1595
 summary: Young lovers, light and darkness, positivity and negativity…
-  Romeo and Juliet is a play which transcends space and time.
-  The dualities present in the play remain relevant to today’s world,
-  we devoted to the play an in depth analysis of these dualities
-  while exploring new themes such as promises and their predominance in the play.
+  Romeo and Juliet is one of the most well known Shakespeare plays as it is seen
+  as one of the greatest love stories ever told.
+  We developed an in-depth analysis of the play while exploring new themes and
+  existing themes in new ways.
 ---
 
 
