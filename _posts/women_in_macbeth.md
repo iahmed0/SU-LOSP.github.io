@@ -1,6 +1,5 @@
 ---
-title:  "Women in Macbeth"
-layout: default
+title: "Women in Macbeth"
 ---
 
 According to Juliet Dusinberre, “women parry powerlessness by becoming adept plotters, channelling into premeditation the energy which men expend in performance.”1 So, like both Portia and Calpurnia in Julius Caesar, Lady Macbeth is considered to be powerless in the world of politics, but it can be argued that she takes active steps to ensure that she is the one in control regardless of the perceived social position of her gender. This returns us to the earlier question in the first post of this series:  how do we define dominance? Lady Macbeth has 259 lines in Macbeth while the eponymous protagonist has a healthy 715, but it is still possible to argue that Lady Macbeth is the dominant half of this power couple.
@@ -16,8 +15,8 @@ That they have done't?” (I.vii.75-78)
 
 This kind of control and manipulation makes a strong case for Lady Macbeth as the dominant character in the play. Like Levin says, she threatens “hegemonic sex/gender systems” and this is particularly clear in this scene. Not only does Lady Macbeth have double the lines of her husband, she also emasculates him and rejects her maternal instincts in an attempt to align herself with the masculine and him with the feminine, thus putting herself in a position of power traditionally denied to the woman. Macbeth even notes this himself:
 
-“Bring forth men-children only;	
- For thy undaunted mettle should compose
+“Bring forth men-children only;	 
+ For thy undaunted mettle should compose	 
  Nothing but males.” (I.vii.73-75)
 
 He states that her fearless spirit is so masculine in nature that she could only possibly produce male children, a curious juxtaposition of masculinity and maternity. These blurred gender lines are a common theme throughout the play. Lady Macbeth further embodies this nonconformist/witch figure as she deliberately desexualises herself in the hopes of destroying any maternal instinct or perceived feminine weakness:
