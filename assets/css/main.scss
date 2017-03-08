@@ -174,7 +174,7 @@ main {
             list-style: none;
             padding: .3em;
             &.active {
-              background-color: 
+              background-color: $grey_background;
               border-radius: .4em;
             }
         }
