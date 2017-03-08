@@ -11,6 +11,10 @@ the [Folger Shakespeare Library][folger].
 [annotated]: http://www.folgerdigitaltexts.org/download/
 [folger]: http://www.folger.edu/
 
+## [folgerhs](https://github.com/SU-LOSP/folgerhs)
+
+Growing Haskell toolset to parse and handle the XML annotated version of Shakespeare's
+literature the Folger Shakespeare Library provides.
 
 ## [characters.py](/tools/characters.py)
 
