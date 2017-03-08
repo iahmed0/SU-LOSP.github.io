@@ -4,11 +4,11 @@ permalink: /analyses/richard_ii/
 read_play: http://shakespeare.mit.edu/richardii/full.html
 pdf: richard_ii.pdf
 year: 1595
-summary: A history exploring the downfall of King Richard II of England.
+summary: A historical play examining the life of King Richard II of England.
 ---
 
 <br>
-Using a tool called WordHoard, we can view the words that appear in Richard II 
+Using a tool called WordHoard, we can view the words that appear in Richard II
 more or less than would be expected, compared to the rest of
 Shakespeare’s plays.  The words in black appear more frequently in Richard II
 than in other plays; words in grey appear less frequently.
