@@ -5,7 +5,12 @@ permalink: /tools/
 
 For further information and to download, please follow the links below.
 
-Texts are available [here](shakespeare.zip).
+Excellent [annotated versions][annotated] of Shakespeare's plays are provided by
+the [Folger Shakespeare Library][folger].
+
+[annotated]: http://www.folgerdigitaltexts.org/download/
+[folger]: http://www.folger.edu/
+
 
 ## [characters.py](/tools/characters.py)
 
