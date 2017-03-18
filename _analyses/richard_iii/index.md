@@ -166,3 +166,36 @@ Through an act-by-act analysis of the play, WordHoard showed that LIVE (v) is mo
      * "Methinks the truth should live from age to age, / As 'twere retailed to all posterity, / Even to the general all-ending day"
      * "An if I live until I be a man, / I'll win our ancient right in France again / Or die a soldier, as I lived a king"
      * "That Julius Caesar was a famous man; / With what his valour did enrich his wit, / His wit set down to make his valour live: / Death makes no conquest of this conqueror; / For now he lives in fame, though not in life."
+
+
+#### Something to think about
+
+* The play contains more instances of death than any other Shakespeare play or historical play; however, it also shows the greatest use of the word LIVE. Is death to be considered then as entirely negative or as a first step towards life, change, progress?
+* With reference to the use of the word LIVE made by Prince Edward: should we think about living in mere physical terms or as something connected with survival through history and tradition?
+
+# The woman question
+ 
+The pronoun SHE also appears to be highly underused, despite the amount of female characters in the play. WordHoard reports that:
+
+* SHE  
+Log likelihood -18,2**** (compared to Shakespeare's plays)  
+Analysis count: 48  
+Reference count: 2558.
+
+<figure>
+    <img alt="She" src="she.png"/>
+</figure>
+
+The results prompted us to investigate the actual prominence of the play's female characters. Through a speech script, we have generated a spreadsheet which lists the amount of words spoken by each characters and how many times they speak overall. It results that Queen Elizabeth speaks more times than everyone but Richard and Buckingham, even though she speaks less words. In general, all the ladies in the play speak more than most of their male counterparts.
+ 
+VOCABALANCE has also allowed us to find out what words are most significant to the women of Richard III:
+ 
+* LADY ANNE: unnatural, mortal, cursed, blood, poison, miserable
+* QUEEN ELIZABETH: wail, tender, oath, wilt, curse, destruction, never, dead
+* DUCHESS OF YORK: accursed, weep, shame, lost, grief, damned, woes, sorrow, death
+* QUEEN MARGARET: kill'd, woes, hell, shame, sorrow, loss, curse, clouds, traitors, fool, prey
+
+#### Something to think about:
+
+* Women are the ones who directly address the tragedy of the story through their language; they are the most emotional characters, the most angered and the most devastated. But they're also the most hopeful - particularly Queen Margaret. She's often depicted as being a one-dimensional character who expresses only rage/anger. However, she is the one who teaches a lesson about the use of language to alleviate pain and she is also one of the character who uses the verb LIVE the most in concordance with instances of hope. Could it be, then, that Queen Margaret is the one who propels the other characters forward through her feelings?
+* The women in the play speak overall more than the men. Even though the pronoun SHE is underused compared to Shakespeare's plays, this could be seen as a positive element. Could it be argued that this further enhances the argument by which women take on an active rather than passive role in the play? They speak up rather than being spoken of.
