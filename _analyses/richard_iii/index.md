@@ -144,3 +144,25 @@ And +26,2**** (compared to Shakespeare's Plays)
 <figure>
     <img alt="Live" src="live.png"/>
 </figure>
+
+Their positive log likelihood means that both words appear much more frequently than in any other historical play or any other Shakespeare play. As previously mentioned, the prominence of the word DEATH might not be considered particularly significant, but the relevance of LIVE (v) in a play which deals with its opposite has prompted a further investigation.
+ 
+Through an act-by-act analysis of the play, WordHoard showed that LIVE (v) is mostly used in concordance with "shall"/ "might"/ "hope". Furthermore, it is used:
+
+1. In a negative sense only predominantly by Richard:
+
+    * "So wise so young, they say, do never live long" (act 3, Scene I)
+
+2.	In a positive sense primarily by Queen Margaret:
+
+     * "Dear God I pray, / that I might live and say "The dog is dead" (act 4, scene IV)
+     * "So she may live unscarred of bleeding slaughter" (act 4, scene IV)
+     * "If thou wilt outstrip death, go, cross the seas, / And live with Richmond, from the reach of hell" (act 4, scene I)
+     * "Outlive thy glory, like my wretched self. / Long mayst thou live to wail thy children's death / And see another, as I see thee now, / Decked in thy rights, as thou art stalled in mine" (act 1, scene III)
+     * "God I pray Him / That none of you may live his natural age, / But by some unlooked accident cut off" (act 1, scene III)
+ 
+3.	It is a relevant word for Prince Edward - though he dies - in Act 3 Scene 1, in his conversation with Richard and Buckingham:
+
+     * "Methinks the truth should live from age to age, / As 'twere retailed to all posterity, / Even to the general all-ending day"
+     * "An if I live until I be a man, / I'll win our ancient right in France again / Or die a soldier, as I lived a king"
+     * "That Julius Caesar was a famous man; / With what his valour did enrich his wit, / His wit set down to make his valour live: / Death makes no conquest of this conqueror; / For now he lives in fame, though not in life."
