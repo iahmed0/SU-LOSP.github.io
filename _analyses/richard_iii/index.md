@@ -71,3 +71,76 @@ Another thing those four words have in common is they all feature in Act 3, Scen
   <figure>
       <img alt="Lord" src="lord.png" />
   </figure>
+
+This might lead us to wonder just what is so significant about Act 3 Scene 7? By looking at these words grouped together we can see at a glance that something important must be happening in this particular scene.
+
+# Act 3 Scene 7
+
+When we turn to Act 3 Scene 7 we can indeed witness an important scene in the play, as it is the scene where Richard III succeeds in manipulating the right people into begging him to claim the throne of England for himself. On the whole this scene is relatively short at roughly 247 lines, though it is a significant moment in the life of King Richard III.
+The Duke of Buckingham informs Richard of his initial unpopularity, which he says he can remedy by appearing religious and saint-like in front of the Mayor and the town citizens. Richard agrees to this plan and disappears upstairs ready to be called by Buckingham when the Mayor arrives to seek audience with him. When the Mayor arrives and asks to see Richard, Buckingham calls on him several times and each time Richard refuses to come down, as he is at prayer and does not wish to be disturbed. The Mayor and Buckingham then engage in deep conversation where Buckingham does his best to portray Richard as a deeply holy and religious man who only has the concerns of the nation and its people in his heart. His speeches compare Richard to his deceased brother King Edward IV – who had a reputation for drinking and wasting money and was rumoured to be illegitimate. Buckingham also makes such declarations as, ‘But, sure, I fear, we shall not win him to it’ when talking about the likelihood of Richard bowing to their wishes and declaring himself King. According to Buckingham and Richard himself, he cannot be persuaded to take the throne and deprive his nephews of their birthright.
+
+#### Richard’s Ulterior Motives
+
+Richard declares his true intentions and shows his true character in the very first scene of Act 1 in his opening monologue, “And therefore, since I cannot prove a lover, /To entertain these fair well-spoken days, /I am determined to prove a villain/And hate the idle pleasures of these days” (lines 28-31). It is worth remembering that he actively refers to himself as a villain and is ‘determined’ to do everything in his power to cause the downfall of those he believes have wronged him, as well as those who have not. This is something to remember when reading Act 3 Scene 7.
+
+#### Something to Think About:
+
+  * What does the religious content of Richard’s monologues convey about his character?
+  * How does Richard persuade the Mayor and citizens successfully into begging him to take the crown from his young nephews?
+  * To what extent is Act 3 Scene 7 a turning point/pivotal scene in the play?
+
+# Dysfunctional Family
+
+One of the most famous and mysterious disappearances in English history happened just prior to Richard III being crowned King. The story of the Princes in the Tower has baffled historians for centuries, as their remains have never been discovered or formally identified. In Shakespeare’s play, Richard III is blamed for their disappearance and supposed murder, an accusation which he fails to deny and thus gave rise to the popular myth that he murdered his own nephews or they were killed on his orders.
+
+<figure>
+    <img alt="Uncle by character" src="uncle_by_character.png" />
+</figure>
+
+With this in mind, it is perhaps surprising to see that UNCLE is one of the words used most frequently by both Prince Edward and his younger brother York. The irony of this is that the instances in which they are referring to/conversing with their uncle are usually positive exchanged where they profess their love for him and their faith that he will look after them as Lord Protector.
+Richard’s questionable attitude towards his blood relatives also extends to his niece Elizabeth of York, future wife of Henry Tudor (more spoilers if you don’t know history). He uses the word ‘daughter’ 14 times in Act 4 Scene 4 when he attempts to persuade Queen Elizabeth that he is in love with her eldest daughter – and his blood niece – Elizabeth. This word is his most frequently used word; it is four times more significant than any other character’s use of the word. His manipulation of Queen Elizabeth proves somewhat successful as he manages to convince her to speaker to her daughter and tell her how he feels, though nothing comes of the proposed marriage. This highlights Richard’s gift for manipulation and has echoes of his successful campaign to convince Queen Anne to marry him earlier on in the play.
+
+##### Daughter
+
+<figure>
+    <img alt="Daughter" src="daughter.png" />
+</figure>
+
+##### Richard
+
+<figure>
+    <img alt="Richard" src="richard.png" />
+</figure>
+
+# Saint or Sinner?
+
+Act 5, Scene 3 contains a crucial moment in the history of Richard III, as it concerns his defeat and death on Bosworth Field at the hands of Henry Tudor, Earl of Richmond (the future King Henry VII). In this particular scene, the word ‘saint’ is used 4 times – the most in any scene in the play. It is mostly used by Henry and Richard as they both call upon St. George, patron Saint of England, to aid them in their quest to defeat and kill the other.
+
+<figure>
+    <img alt="Saint by character" src="saint_by_character.png"/>
+</figure>
+
+In this scene, the night before the battle is depicted in both Richard and Henry’s camps. As Richard sleeps, he is visited by a large number of ghosts; everyone from his dead wife Queen Anne to the Duke of Buckingham. Each ghost delivers a message to the sleeping King Richard and Earl of Richmond, the content of which is mostly the same. They wish for Richard to be defeated and killed by Henry Tudor, as Richard has shown himself to be unworthy of the crown through his evil deeds and words. Henry is very much depicted as the knight in shining armour who will save England from tyranny and another civil war.
+
+# To Live and To Die
+
+While it may seem obvious that certain words, such as DEATH, appear more frequently in this play due to its violent and tragic nature, other words like the verb LIVE were further investigated through WordHoard to identify their use. It reported that:
+ 
+
+* DEATH (n)
+
+log likelihood + 12,7*** (compared to other Historical plays)
+And + 34,2**** (compared to Shakespeare's plays)
+
+<figure>
+    <img alt="Death" src="death.png"/>
+</figure>
+
+* LIVE (v)
+
+log likelihood + 16,4**** (compared to Shakespeare’s Histories)
+And +26,2**** (compared to Shakespeare's Plays)
+
+<figure>
+    <img alt="Live" src="live.png"/>
+</figure>
