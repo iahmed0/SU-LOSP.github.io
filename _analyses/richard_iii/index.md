@@ -106,12 +106,6 @@ Richard’s questionable attitude towards his blood relatives also extends to hi
     <img alt="Daughter" src="daughter.png" />
 </figure>
 
-##### Richard
-
-<figure>
-    <img alt="Richard" src="richard.png" />
-</figure>
-
 # Saint or Sinner?
 
 Act 5, Scene 3 contains a crucial moment in the history of Richard III, as it concerns his defeat and death on Bosworth Field at the hands of Henry Tudor, Earl of Richmond (the future King Henry VII). In this particular scene, the word ‘saint’ is used 4 times – the most in any scene in the play. It is mostly used by Henry and Richard as they both call upon St. George, patron Saint of England, to aid them in their quest to defeat and kill the other.
