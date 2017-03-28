@@ -3,7 +3,8 @@ title: The Tragedy of Macbeth
 permalink: /analyses/macbeth/
 read_play: http://shakespeare.mit.edu/macbeth/full.html
 year: 1606
-summary: TODO
+summary: A tragedy on the effects of political ambition and the pursuit of
+  power.
 ---
 
 {% include_relative table_styles.html %}
