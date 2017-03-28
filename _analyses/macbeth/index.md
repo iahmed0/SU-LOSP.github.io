@@ -87,8 +87,7 @@ commonly in Macbeth than expected when compared to Shakespeare's other plays.
 This can be seen in the WordCloud. Through Antconc we can see that it appears
 the most densely between the murder of King Duncan and the death of Banquo.
 
-TODO
-
+![](image1.png)
 
 Between these two actions, Macbeth is committing himself to the fulfilment of
 the Weird Sisters' prophecy. One of the most important points that this
@@ -127,7 +126,7 @@ is reinforced at the end of the play when the word 'king' is repeated three
 times in quick succession almost immediately after Macbeth is killed. This can
 be seen clearly below.
 
-TODO
+![](image2.png)
 
 # Light and Dark – Banquo’s Death
 
@@ -138,7 +137,7 @@ them. As said before, light would normally represent the king. The relationship
 between Macbeth, the king, ordering Banquo's death, and the light of the torch
 that dooms him is clear here.
 
-TODO
+![](image3.png)
 
 What is also interesting in this scene is the fact that it is the extinguishing
 of this light that allows Fleance, Banquo's son, to escape. The torch dies out
