@@ -183,11 +183,23 @@ Reference count: 2558.
 The results prompted us to investigate the actual prominence of the play's female characters. Through a speech script, we have generated a spreadsheet which lists the amount of words spoken by each characters and how many times they speak overall. It results that Queen Elizabeth speaks more times than everyone but Richard and Buckingham, even though she speaks less words. In general, all the ladies in the play speak more than most of their male counterparts.
  
 VOCABALANCE has also allowed us to find out what words are most significant to the women of Richard III:
- 
+
 * LADY ANNE: unnatural, mortal, cursed, blood, poison, miserable
 * QUEEN ELIZABETH: wail, tender, oath, wilt, curse, destruction, never, dead
 * DUCHESS OF YORK: accursed, weep, shame, lost, grief, damned, woes, sorrow, death
 * QUEEN MARGARET: kill'd, woes, hell, shame, sorrow, loss, curse, clouds, traitors, fool, prey
+
+<figure>
+    <img alt="Lady Anne" src="richLadyAnne.png" style="width: 400px;"/>
+</figure>
+
+<figure>
+    <img alt="Queen Elizabeth" src="richQueenElizabeth.png" style="width: 400px;"/>
+</figure>
+
+<figure>
+    <img alt="Queen Margaret" src="richQueenMargaret.png" style="width: 400px;"/>
+</figure>
 
 #### Something to think about:
 
