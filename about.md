@@ -22,9 +22,10 @@ additional tools to help gain further insight into the texts, and contributing
 to the analysis of Richard II.
 
 Mohamed Amine Belabbes
-: Second year Computer Science at Strathclyde University. He contributed
-into putting together the website and generated graphs for the different plays
-using R. He also contributed to the analysis of Romeo & Juliet.
+: Third year Computer Science student at Strathclyde University. Mainly acting as a
+Data Analyst, he, also, contributed into the development of the website and
+helps maintaining it. He helped with the analyses of 'Romeo and Juliet' and
+'Richard III'. 
 
 James Jack
 : James is a first year Computer Science student at the University of
