@@ -2,112 +2,47 @@
 title: About us
 ---
 
-Rebecca Russell <rebecca.e.russell.2013@uni.strath.ac.uk>
-: Rebecca is a third year student at Strathclyde University studying English
-Literature and Spanish. This is her second year as part of the TextLab project,
-returning this year as a Research Assistant. She has focussed on Shakespeare’s
-Julius Caesar, specifically the use of masculine and feminine pronouns and the
-use of Caesar’s name in the play.
-
-Unai Zalakain
-: Third year Computer Science student at the University of Strathclyde,
-contributed with some analysis tools, bootstrapped the website and helped with
-the analysis of Twelfth Night.
-
-Linus Heckemann
-: Linus is a second-year student at the University of Strathclyde studying
-Computer Science, and a Junior Web Developer at Twig World. He is participating
-in the analysis component of the TextLab project, looking primarily at developing
-additional tools to help gain further insight into the texts, and contributing
-to the analysis of Richard II.
-
-Mohamed Amine Belabbes
-: Third year Computer Science student at Strathclyde University. Mainly acting as a
-Data Analyst, he, also, contributed into the development of the website and
-helps maintaining it. He helped with the analyses of 'Romeo and Juliet' and
-'Richard III'. 
-
-James Jack
-: James is a first year Computer Science student at the University of
-Strathclyde. He is contributing with building the website and brainstorming
-ideas of how the website could be designed. He also helped develop the analysis
-of the play ‘Romeo & Juliet’ by researching interesting concepts of positivity
-and negativity and produced some graphs to display this information.
-
-Francesco Meggetto
-: Second-year Software Engineering student at Strathclyde University. He helped
-in the analysis of Romeo & Juliet and contributed on building the website.
-
-Amanda Kane <amanda.kane.2013@uni.strath.ac.uk>
-: Amanda is a third year student at the University of Strathclyde studying
-English Literature and History. This is her second year involved in TextLab and
-has returned in the capacity of a Research Assistant. Her focus is Othello with
-a particular emphasis on female pronouns and the use of gendered slurs
-throughout the play.
-
-
-Evangeline Sellers <evangeline.sellers.2013@uni.strath.ac.uk>
-: Evangeline is a third year student at the University of Strathclyde studying
-English Literature and Journalism & Creative Writing. This is her second year
-involved in TextLab and she has returned in the capacity of a Research
-Assistant. Her focus is Othello with a particular emphasis on the play’s
-symbolism and motifs.
-
-
-Maria Barrett
-: Maria is a third year English Literature student at Strathclyde. She
-contributed to the development of analysis for Richard II, in particular the
-theme of emotions and love, and also the relationship between the king and queen
-throughout the play.
-
-Emily Black
-: Emily is a second year student at Strathclyde University studying English
-literature and Creative Writing. This is her first year taking part in the
-TextLab Project. She has analysed Shakespeare's Richard II focusing on themes of
-patriotism, power and loyalty.
-
-Hannah Boyle
-: Hannah is a second year student at Strathclyde University studying English
-Literature, Journalism and Creative Writing. This is her first year as part of
-the TextLab project. She has focused on Shakespeare’s Romeo and Juliet, and
-specifically the concept of identity throughout the play, the definition of a
-name and how Shakespeare incorporates this through his characters.
-
-Sara Bresciani
-: Sara is a second year English and Journalism & Creative Writing student at the
-University of Strathclyde, originally from Italy. Her research focuses on
-Shakespeare's Richard II, particularly the concepts of power and the divine
-right of kings explored in the play.
-
-Petra Menih
-: Petra is a second year student at Strathclyde University studying English
-Literature and Psychology. This is her first year as part of the TextLab
-project, focussing on Shakespeare’s Romeo and Juliet, specifically hypothesising
-that it is a play of uncertainty and doubt by presenting unconfident words and
-question marks.
-
-Mélanie García Navarro
-: Mélanie is a third year student at Strathclyde University studying English
-Literature. This is her first year as part of the TextLab project. She has
-focussed on Shakespeare’s Twelfth Night, specifically the importance of colours,
-and she has helped to research the importance of references to male and female
-characters in the play.
-
-Caitlin Stahl
-: Caitlin is a student at Concordia University studying Honour Linguistics. She
-is on exchange to the University of Strathclyde for the semester. This is her
-first time being part of the TextLab project. Caitlin has focused on
-Shakespeare’s Romeo and Juliet, with specific attention to promises, be they
-words and sentences that are being used like promises, what type of promises
-(made/kept, broken, other), and who is using the promises spoken of in the play.
-
-Sylwia Slominska
-: Sylwia is a third year exchange student from the University Paris 8 Vincennes
-Saint - Denis where she studies Linguistics and Media. Her contribution to
-Shakespeare's play Twelfth Night involves a close study of men and women's roles
-in relation to the very comic character of the play. She is also part of the
-team undertaking the creation of a poster for the Vertically Integrated Projects
-(VIP) Conference.
-
-Jonathan Hope <jonathan.r.hope@strath.ac.uk>
+- Jonathan Hope <jonathan.r.hope@strath.ac.uk>
 : Professor of Literary Linguistics, University of Strathclyde
+
+## Editors-In-Chief
+
+- Rebecca Russell <rebecca.e.russell.2013@uni.strath.ac.uk>
+- Sara Bresciani <sara.bresciani.2014@uni.strath.ac.uk>
+ 
+## IT and Tools Enquiries
+ 
+- Linus Heckemann <linus.heckemann.2014@uni.strath.ac.uk>
+- Unai Zalakain <unai.zalakain.2014@uni.strath.ac.uk>
+
+## 2016-2017 Contributors
+ 
+- Cameron Beswick
+- Chloe Lindsay
+- Ciara Limbert
+- Dimitar Mihaylov
+- Dylan Blyth
+- Eilidh Armstrong
+- Harriet Duncan
+- Ian Richardson
+- Matthew Scott
+- Mohamed Amine Belabbes
+- Natalie McLuckie
+- Ross Delany
+- Thomas Hunt
+ 
+## 2015-2016 Contributors
+ 
+- Amanda Kane
+- Caitlin Stahl
+- Emily Black
+- Evangeline Sellers
+- Francesco Meggetto
+- Hannah Boyle
+- James Jack
+- Mairi Hughes
+- Maria Barrett
+- Mohamed Amine Belabbes
+- Mélanie García Navarro
+- Petra Menih
+- Sylwia Slominska
