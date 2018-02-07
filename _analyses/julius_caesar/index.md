@@ -17,7 +17,7 @@ summary: Julius Caesar is part of a series of plays by Shakespeare which are
 > Portia is Brutus' harlot, not his wife
 {:title="Julius Caesar, Act 2, Scene 1" .highlight}
 
-Using a tool called WordHoard, we can view the words that appear in Julius
+Using a cool tool called WordHoard, we can view the words that appear in Julius
 Caesar more or less than would be expected, compared to the rest of
 Shakespeare's plays.  The words in black appear more frequently in Julius Caesar
 than in other plays; words in grey appear less frequently.
