@@ -16,6 +16,8 @@ the [Folger Shakespeare Library][folger].
 Growing Haskell toolset to parse and handle the XML annotated version of Shakespeare's
 literature the Folger Shakespeare Library provides.
 
+Pre-processed results are also available [here](/assets/folgerhs-results.zip).
+
 ## [characters.py](/tools/characters.py)
 
 A little Python 3 script we created that fetches a Shakespeare play from
@@ -48,6 +50,7 @@ generating a “significance index” based on:
 We used this to perform in-depth analysis of characters on [Richard
 II](/analyses/richard_ii).
 
+Pre-processed results are also available [here](/assets/vocabalance-results.zip).
 
 ## [AntConc](http://www.laurenceanthony.net/software/antconc/)
 
