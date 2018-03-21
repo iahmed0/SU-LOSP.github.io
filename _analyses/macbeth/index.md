@@ -4,7 +4,7 @@ permalink: /analyses/macbeth/
 read_play: http://shakespeare.mit.edu/macbeth/full.html
 year: 1606
 summary: A tragedy on the effects of political ambition and the pursuit of
-  power.
+power.
 ---
 
 {% include_relative table_styles.html %}
@@ -150,3 +150,248 @@ The image of the extinguished light is symbolic not only if Macbeth weakening
 grasp of power but also of his future demise. The second part of the witches'
 prophecy was that Banquo's descendants would go on to be future kings for
 generations to come, a prediction that came true with Fleance's escape.
+
+#Manly Macbeth
+
+It should come as no surprise that male characters dominate the stage in
+Shakespeare's plays. We can see this clearly when we compare how many
+lines are spoken by men and women in the tragedies.
+
+<figure>
+    <img src="media/image1.png" />
+</figure>
+
+However, some scholars argue that Shakespeare's female characters often
+react against this under-representation by becoming manipulative and
+cunning, forcing us to question what dominance really means.
+Unsurprisingly, Macbeth has more than double the lines of his wife, Lady
+Macbeth (715 to her 259), however it is still possible to argue that
+Lady Macbeth is the dominant half of this power couple. While Macbeth's
+lines outnumber Lady Macbeth's across the play in its entirety, this
+dynamic is reversed in Act I Scene vii. Macbeth comes to his wife to
+declare that their murder plot is off the table, however her influence
+over him can be tracked across the course of the short scene. The
+conversation becomes notably one-sided, with Macbeth speaking only 21
+lines, while Lady Macbeth has 43. In order to find out how the language
+in Act 1 Scene vii reflects this subversion of roles, we can use
+Ubiqu+ity to examine the types of language used by Macbeth and Lady
+Macbeth. Ubiqu+ity is an online application that generates statistics
+and can be used to tag specific words and phrases using LATs (Language
+Action Types) which can help identify the type of language used, its
+connotations and the effect on the reader. After running the dialogue of
+both Macbeth and Lady Macbeth through Ubiqu+ity, a .csv file of
+statistics is returned which can be visualised using the Slim Text
+Viewer and JMP. Several of the results are particularly interesting as
+they appear to contradict traditional gender roles i.e. the strong male
+and weak female character; the gentle woman and violent man; and the
+dominant man and subjugated woman.
+
+a.  Question
+
+    LAT: Question
+
+    *The use of words and punctuation to indicate the requesting of
+    specific information (e.g., what, hast, is it, why not, why, how,
+    ?). Experience created: The addressee is being asked to provide
+    specific information on a certain topic or issue.*
+
+While Lady Macbeth statistically uses more language that comes under the
+Questions LAT than Macbeth throughout the whole play, there is an even
+greater disparity between the use of questioning language in Act 1 Scene
+7.
+
+<figure>
+<img src="media/image2.png" class="small" /><img src="media/image3.png" class="small" /><img src="media/image4.png" class="small" />
+</figure>
+
+Lady Macbeth uses a significantly higher proportion of questions
+throughout Act 1 Scene vii than Macbeth. As we can see above, these
+Question words are described on the Docuscope LAT list as suggesting
+that "the addressee is being asked to provide specific information on a
+certain topic or issue". However, in this case, what Docuscope cannot
+identify is that Lady Macbeth's questions are largely rhetorical, and
+she is using this language to mock Macbeth's change of heart about the
+murder of Duncan.
+
+<figure>
+<img src="media/image5.png" />
+</figure>
+
+#### Figure 2 Macbeth Act 1 Scene vii ll.35-45 with Question LATs highlighted
+
+b.  Positivity
+
+> LAT: Positive Emotion
+>
+> *The use of words that convey, connote, or evoke emotions that are
+> considered positive (e.g., pleasant, gentle, happiness, delight, shine
+> upon, happy, heaven, pleasure, friendship, splendor). Experience
+> created: The text indicates a person in a state of happiness, joy,
+> elation, pride, or some other feel-good emotion.*
+
+An unexpectedly high LAT for Lady Macbeth in this scene is Positivity.
+This is the seventh most used LAT in Lady Macbeth's dialogue in this
+scene according to the Slim Text Viewer, and it is defined as indicating
+a character in a state of happiness. From this, we might expect Lady
+Macbeth to be in high spirits in this scene, at least in comparison to
+Macbeth who doesn't use any language that Docuscope identifies as
+indicating positivity.
+
+<figure>
+<img src="media/image6.png" class="small" /><img src="media/image7.png" class="small" />
+</figure>
+
+Using SlimTV, however, we can visualise the words that generated this
+figure in context. It becomes clear that Lady Macbeth is not using this
+positive language to demonstrate her happiness.
+
+<figure>
+<img src="media/image8.png" />
+</figure>
+
+<figure>
+<img src="media/image9.png" />
+</figure>
+
+#### Figure 4 Macbeth Act 1 Scene vii ll.55-60 with Positivity LAT highlighted
+
+The words highlighted in blue are those that were identified by
+Docuscope as belonging to the LAT Positivity. In lines 35-45, the
+positive language is used to compare Macbeth's previous resolve with his
+current cowardice, describing his previous desire to murder Duncan which
+he has now decided against.
+
+In lines 55-60 she uses this type of language for another purpose. Her
+use of words like "tender" evoke images of gentleness and innocence
+which she sharply contrasts with her violent assertion that she would
+murder her own infant child if she had promised to do so. This has the
+further purpose of emphasising Lady Macbeth's departure from femininity,
+as words that connote motherhood, delicacy, and gentleness are strongly
+counteracted by her violent promise.
+
+c.  Negativity
+
+> LAT: Negative Emotion
+>
+> *The use of words indicating negativity (e.g., gloom, distrust, abhor,
+> wretched, disappointment, warning, death, complaining to, ugly,
+> villain). Experience created: The text conveys a sense of negativity
+> for the situation being described.*
+
+While Lady Macbeth has the monopoly on positive language in Act 1 Scene
+7, Macbeth has the edge when it comes to language associated with
+negativity.
+
+<figure>
+<img src="media/image10.png" class="small" /><img src="media/image11.png" class="small" />
+</figure>
+
+Using SlimTV again, we can find examples of this language in context:
+
+<figure>
+<img src="media/image12.png" />
+</figure>
+
+#### Figure 5 - Macbeth Act 1 Scene vii ll.79-81 with Negativity LAT highlighed
+
+Macbeth uses negative language to express his unhappiness with the plot
+to kill Duncan which is clearly indicated with the word "terrible". He
+refers to Lady Macbeth as "false" twice in one sentence, although
+Docuscope only identifies the first instance of this as negative
+language. We can see, however, that they serve a similar purpose,
+emphasising Macbeth's distaste for their ensuing betrayal of the king.
+Lady Macbeth's negative language, however, is almost exclusively
+directed towards Macbeth, expressing her contempt of his cowardice:
+
+<figure>
+<img src="media/image13.png" />
+</figure>
+
+#### Figure 6 - Macbeth Act 1 Scene vii ll.35-45 with Negativity LAT highlighted
+
+In this way, we can see that Lady Macbeth's positive and negative
+language is used to the same end: to emasculate Macbeth and pressure him
+into agreeing to the murder of the king. This highlights the importance
+of not fully basing research on the results from these digital tools
+since Lady Macbeth's positive language is not being used to connote a
+positive state of mind, nor are Macbeth and Lady Macbeth using negative
+language to elicit the same effect. Because of this, some amount of
+human analysis is still vital in achieving a well-rounded conclusion.
+
+d.  Comparison
+
+<figure>
+<img src="media/image14.png" class="small" /><img src="media/image11.png" class="small" />
+</figure>
+
+Lady Macbeth's also uses more comparative language than Macbeth in this
+scene. As we saw above, Lady Macbeth uses both positive and negative
+language to berate Macbeth's cowardice, comparing his previous positive
+attributes to his current negative ones.
+
+<figure>
+<img src="media/image15.png" />
+</figure>
+
+#### Figure 7 - Macbeth Act 1 Scene vii ll.38-41 with Comparison LAT highlighted
+
+<figure>
+<img src="media/image16.png" />
+</figure>
+
+#### Figure 8 - Macbeth Act 1 Scene vii ll.49-52 with Comparison LAT highlighted
+
+In lines 38-41 (see Figure 7) she compares bravery and desire,
+suggesting that Macbeth is all talk and no action. She then goes on to
+continue her attempted emasculation of her husband by telling him that
+he is no longer a man, comparing him again in line 50 to his previous
+self when he was committed to the murder of Duncan. She uses comparative
+language yet again in line 51 to compare him to a hypothetical future
+self who has murdered Duncan and as a result is even more masculine than
+before.
+
+e.  Direct Address
+
+> LAT: Directing Address
+>
+> *The use of words summoning another\'s attention or making implicit
+> acknowledgement of an interlocutor (e.g., you, you are, prithee, thy,
+> thou, yourself, my Lord). Experience created: Establishing exactly who
+> the intended addressee of a message is.*
+
+<figure>
+<img src="media/image17.png" class="small" /><img src="media/image11.png" class="small" />
+</figure>
+
+Lady Macbeth uses a large amount of Direct Address in this scene, while
+Macbeth does not. This demonstrates clearly the internal struggle of
+Macbeth, and the heavy influence of Lady Macbeth. Lady Macbeth's
+constant use of direct address indicates her attempts to influence her
+husband. Macbeth on the other hand uses much less direct address which
+could be interpreted as an indication that his struggle, while voiced
+aloud in the presence of his wife, is much more internal.
+
+f.  LAT Conclusions
+
+By examining these LATs we can identify the specific words and use of
+language that Lady Macbeth uses to manipulate her husband throughout Act
+1 Scene 7. We can see that masculinity is considered to be desirable,
+precluding traits like cowardice and passivity. By convincing Macbeth
+that he is at risk of losing his masculinity, Lady Macbeth successfully
+manipulates him into pledging himself to the murder plot. Her
+manipulation of Macbeth and embodiment of more traditionally masculine
+traits like bravery, action and a propensity for violence, subvert
+traditional gender roles. These traits, as well as her blatant rejection
+of femininity, position her in the dominant role in this relationship,
+despite the sustained under-representation of female characters, not
+only in Macbeth, but in Shakespeare's corpus as a whole.
+
+Something to think about
+
+a)  How would you define a dominant character?
+
+b)  Do you agree that Lady Macbeth is the dominant character in this
+    scene?
+
+c)  Do you think she's still the dominant one throughout the rest of the
+    play?

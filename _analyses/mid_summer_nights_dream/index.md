@@ -2,10 +2,12 @@
 title: A Midsummer Night's Dream
 permalink: /analyses/mid_summer_nights_dream/
 read_play: http://shakespeare.mit.edu/midsummer/full.html
+year: 1600
+summary: A romantic comedy play centered in a forest with the fairies controlling and manipulating Athenian lovers.
 ---
 
 <figure>
-    <img alt="Wordcloud" src="Lovecloud.png" />
+    <img src="Lovecloud.png" />
 </figure>
 
 # The Prominant Theme of Love
@@ -21,19 +23,19 @@ There is indeed other interesting events and occurences in the play, however, th
 We can also see this using a software called AntConc, a textual analysis software which allows for specific word counts and extensive text study. Using this software, we can see that throughout the play the word is used over 100 times, being used more towards the middle of the play.
 
 <figure>
-    <img alt="Wordcloud" src="loveconc.png" />
+    <img src="loveconc.png" />
 </figure>
 
 In comparison to this we see the word hate only appear 9 times throughout, with Lysander being the most common user of the word, usually towards or speaking about Demetrius.
 
 <figure>
-    <img alt="Wordcloud" src="hateconc.png" />
+    <img src="hateconc.png" />
 </figure>
 
 If we look at the use of words in all of shakespeare's texts, compared to this play, we can see that love is very common throughout out his texts, however, is not as prominant as it is in this piece.
 
 <figure>
-    <img alt="Wordcloud" src="a_midsummer_nights_dream.png" />
+    <img src="a_midsummer_nights_dream.png" />
 </figure>
 
 
