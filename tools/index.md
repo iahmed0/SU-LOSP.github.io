@@ -38,6 +38,14 @@ stage and it can be used to determine when characters meet each other.
 
 *[CSV table]: Comma Separated Values table or spreadsheet
 
+## [StoryArcPlotter](/tools/StoryArcPlotter.py)
+
+A Python 3 script we made that generates a graph of the story arc of a given Shakespeare play by measuring the 'happiness' level of each line in the play. Can also generate a list of notable lines in the play, and export data as csv files. 
+
+Requires 'matplotlib' Python module to draw graphs.
+
+![Example graph](/tools/StoryArcPlotterExample.png "Example graph produced by StoryArcPlotter")
+
 ## [Vocabalance](https://github.com/SU-LOSP/vocabalance/)
 
 A tool that analyses the frequency with which each character uses a word,
