@@ -44,7 +44,9 @@ A Python 3 script we made that generates a graph of the story arc of a given Sha
 
 Requires 'matplotlib' Python module to draw graphs.
 
-<img src="/tools/StoryArcPlotter.png" width="671" alt="Example graph">
+<figure>
+    ![Example graph](/tools/StoryArcPlotterExample.png "Example graph produced by StoryArcPlotter")
+</figure>
 
 ## [Vocabalance](https://github.com/SU-LOSP/vocabalance/)
 
