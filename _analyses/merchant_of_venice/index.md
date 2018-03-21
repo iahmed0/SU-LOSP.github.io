@@ -6,11 +6,11 @@ year: 1596-1599
 summary: Shakespearean comedy set in Venice and Belmont, focusing on friendship, love and racial tension
 ---
 
-#A Summary of The Merchant of Venice
+# A Summary of The Merchant of Venice
 
 This Shakespearean comedy play is set in Venice and Belmont and starts with two of the lead characters of Antonio, a wealthy Christian merchant and his friend Bassanio, an aristocrat who has squandered all of his money. Bassanio asks Antonio for a loan in order to woo the third main character, Portia the wealthy heiress of Belmont. As Antonio’s wealth is all tied up at sea he cannot give Bassanio a direct loan, but agrees to be a guarantor for him, if Bassanio can get a loan from some-one else instead. Bassanio finds a Jewish moneylender called Shylock and persuades him to a loan of three thousand ducats. Antonio signs the contract, which demands a pound of his flesh from him instead of any interest if Bassanio cannot pay the loan back in time. Antonio agrees to it thinking it not to be a serious threat. Bassanio takes the money and leaves Venice for Belmont in order to pursue Portia. Her father has set all her suitors a challenge to choose one casket out of three that contains her picture. That suitor will then be free to marry her with her father’s blessing. The caskets are each made of gold, silver and lead. Prince of Morocco picks the gold casket which has a skull in it depicting corruption and has an inscription in it reading ‘what every man desires’. The famous line is said here of ‘All that glitters is not Gold’. Then Prince of Arragon chooses the silver casket which says that ‘ a man will get what he deserves’ and it has a picture of an idiot showing him that he is foolish and self-centred. They both lose the challenge and leave in shame. Meanwhile in Venice Shylock’s daughter Jessica has fallen in love with Antonio’s friend Lorenzo also a Christian and they run away together with her dressed as a boy and with a large amount of her father’s money and jewels. Upon hearing this Shylock blames Lorenzo and is furious as he loathes Antonio who has insulted him repeatedly. He also hears rumours that Antonio’s ships have been lost or sunk in the sea and that he feels he is now not going to get his money back and wants his pound of Antonio’s flesh again as he loathes him because Antonio has been anti-Semitic and badmouthing him around Venice about how Shylocks interests are very high. Bassanio is recognised by Portia as the soldier she fell in love with and he by chance chooses the lead casket with her picture in it and they are engaged to be married the next day. A messenger gives Bassanio a letter telling him that Antonio has lost all his money and must honour his contract with a pound of his flesh. Portia sends Bassanio with double the money for Shylock in order to cancel the contract by paying off his debt. Portia and her maid follow behind both disguised as men. Shylock arrests Antonio and takes him to Duke of Venice who takes the matter to court. The Duke asks Shylock to have mercy on Antonio and let him go, but he refuses. As Balthazar i.e. Portia as a lawyer intervenes and points to some flaws in the contract. A typical Shakespearean heroine. Here Portia has the most lines as Balthazar. Shylock is cornered and gives up his wealth to his daughter and agrees to convert to Christianity and pardons Antonio the debt. Antonio’s fleet returns home safely after all. The truth is revealed about Portia as Balthazar and the three couples; Bassanio and Portia, Lorenzo and Jessica and Nerissa and Graziano are reunited and celebrate at the end of the play.
 
-#The Breakdown of the Play
+# The Breakdown of the Play
 
 ## Act by act
 
@@ -52,7 +52,7 @@ Why do you think these are the most important themes?
 
 
 
-##Shylock
+## Shylock
 
 
 
@@ -68,7 +68,7 @@ poor business practices. Furthermore it is highlighted that Shylock as a
 character is viewed as bitter and prone to anger which affected his life
 at home as well with his daughter, Jessica until she leaves.
 
-##Antonio
+## Antonio
 
 Antonio as a character cannot be easily nailed down. While the play
 essentially revolves around him putting himself in danger for the
@@ -81,7 +81,7 @@ Antonio is referenced as being well liked often, this being shown
 particularly at the trial with the number of individuals coming to his
 defense.
 
-##Bassanio
+## Bassanio
 
 
 Friend to Antonio and the eventual husband of Portia, Bassanio is the
@@ -94,7 +94,7 @@ the start where he implores Antonio not to agree to the forfeit and
 later during the trial when he offers to pay whatever is needed to save
 his friend.
 
-##Lorenzo
+## Lorenzo
 
 Friend to both Antonio and Bassanio, Lorenzo is in love with Jessica,
 the daughter of Shylock. With Lorenzo's help Jessica successfully
@@ -102,7 +102,7 @@ escapes the home of her father and elopes to Belmont to live out a new
 life both with the money she taken from her father and the money she
 will eventually inherit.
 
-##Portia
+## Portia
 
 The love of Bassanio, Portia is a wealthy heiress residing in Belmont.
 While her beauty is unparalleled within the dimensions of the play her
@@ -111,7 +111,7 @@ bound by a clause to only marry whoever chose correctly from three
 caskets. Nonetheless Portia still gets to marry her love, Bassanio, who
 chooses correctly.
 
-##Balthazar (Portia's disguise)
+## Balthazar (Portia's disguise)
 
 In the guise of Balthazar, a young doctor of the law, Portia is able to
 demonstrate that she is the most clever character within the play twice
@@ -119,20 +119,20 @@ over. Initially she succeeds in fooling all present during the trial
 through the use of her disguise and more prominently succeeds in saving
 Antonio from Shylock's revenge.
 
-##Nerissa
+## Nerissa
 Portia's lady-in-waiting and confidente, Nerissa marries Gratiano at the
 same time as Portia marries Bassanio. Nerissa also acts as escort for
 Portia on her trip to Venice and aids in the saving of Antonio by posing
 as law clerk to Portia.
 
-##Gratiano
+## Gratiano
 
 Friend to Bassanio, Gratiano accompanies him to Belmont where he falls
 in love with and eventually marries Nerissa. During the trial Gratiano
 is the most vocal opposition to Shylock's demand for Antonio's pound of
 flesh.
 
-##Jessica
+## Jessica
 
 Daughter of Shylock, Jessica is seen as a woman caught in the middle
 between the jewish and christian elements. Her life is made difficult by
@@ -141,7 +141,7 @@ Marrying him it is stated that she converts from the jewish faith to
 christian which leaves us to question how she is viewed by her new
 christian counterparts.
 
-##Launcelot
+## Launcelot
 
 Shylock's servant, Launcelot severs his ties to him in favour
 of Bassanio. While his life was made difficult being a servant to Jewish
@@ -154,7 +154,7 @@ represent these key ideas within The Merchant of Venice. He presents the
 two characters as conflicting opposites and personifies the juxtaposed
 themes of this play; justice and mercy, forgiveness and revenge.
 
-#Forgiveness and Revenge
+# Forgiveness and Revenge
 
 Revenge as a concept is one of the few that is central to Shakespeare's
 work and a good story in general. Revenge as a noun occurs four times in
@@ -191,7 +191,7 @@ portrayed this using rhetorical questions to be ironic and to state the
 obvious, he has also used repetition of the word "revenge" to highlight
 one of the themes of this.
 
-#Mercy and Justice
+# Mercy and Justice
 
 According to the figure given by Antconc, the word "mercy" is used
 thirteen times, mostly in the end of the play, due to the famous quote
@@ -248,7 +248,7 @@ features, this makes Antonio appear in a better light than Shylock.
 Every time Shylock is talked about or seen by the Elizabethan audience
 in a bad manner, consequently, Antonio\'s good qualities are emphasised.
 
-#Religion in the Merchant of Venice
+# Religion in the Merchant of Venice
 
 Judaism and Christianity appear as seemingly rival religions.
 Shakespeare portrays this using the two main characters Shylock and
@@ -288,7 +288,7 @@ is only said across only 7 Shakespeare plays in total. Using these
 figures, religion can clearly be seen as significant to the over all
 text.
 
-##So what was its role in the play?
+## So what was its role in the play?
 
 Critics have argued that the way Shylock is presented in the play is
 anti- semitic. 'One would have to be blind, deaf, and dumb not to
@@ -359,7 +359,7 @@ of isolation. It is also important as it again highlights that he is
 referred to as ' the jew' therefore is identified by his religious
 identity.
 
-##Religion and Isolation:
+## Religion and Isolation:
 
 It is clear that due to their religion characters within the text feel
 isolated. This can be seen predominantly with Jessica.
@@ -410,7 +410,7 @@ religion.
 So ask yourself this: do you think isolation is self-imposed in the play
 and do you think shakespeare want us to perceive it as this?
 
-#Love and Friendship
+# Love and Friendship
 
 Keyword 1: Love
 
@@ -457,7 +457,7 @@ but in the casket scene as well as the court scene, the characteristics
 of Portia is portrayed as an emancipated, intelligent and confident
 figure (Pawar, 2017).
 
-##Key Word 2: Fair
+## Key Word 2: Fair
 
 ![](media/image8.png)
 Figure 6: the times of characters mentioning "FAIR"
