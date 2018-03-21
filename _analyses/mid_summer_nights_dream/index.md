@@ -52,38 +52,32 @@ The effect of this within the play is to emphasise the noble characters’ refin
 
 ##### THESEUS:
 
-*Now, fair Hippolyta, our nuptial hour*
-
-*Draws on apace. Four happy days bring in*
-
-*Another moon. But oh, methinks how slow*
-
-*This old moon wanes! She lingers my desires,*
-
-*Like to a stepdame or a dowager*
-
-*Long withering out a young man’s revenue. (1.1:1-6)*
+<figure markdown="block">
+>Now, fair Hippolyta, our nuptial hour
+>Draws on apace. Four happy days bring in
+>Another moon. But oh, methinks how slow
+>This old moon wanes! She lingers my desires,
+>Like to a stepdame or a dowager
+>Long withering out a young man’s revenue.
+<figcaption>(1.1:1-6)</figcaption>
+</figure>
 
 ### Rhymed Verse
 Within the play, monologues expressing love are emphasised through the use of rhyme and rhyming couplets. The rhyme scheme generally follows an AABB scheme of rhyming couplets as in traditional love poetry as seen in the example below:
 
 ##### HERMIA:
 
-*By the simplicity of Venus' doves,*
-
-*By that which knitteth souls and prospers loves,*
-
-*And by that fire which burned the Carthage queen*
-
-*When the false Troyan under sail was seen,*
-
-*By all the vows that ever men have broke*
-
-*(In number more than ever women spoke),*
-
-*In that same place thou hast appointed me,*
-
-*Tomorrow truly will I meet with thee. (1.1.170-8)*
+<figure markdown="block">
+>By the simplicity of Venus' doves,
+>By that which knitteth souls and prospers loves,
+>And by that fire which burned the Carthage queen
+>When the false Troyan under sail was seen,
+>By all the vows that ever men have broke
+>(In number more than ever women spoke),
+>In that same place thou hast appointed me,
+>Tomorrow truly will I meet with thee.
+<figcaption>1.1.170-178</figcaption>
+</figure>
 
 Actor Rebecca Carey discusses the role of rhyme in the text in a performance context:
 “The lovers, of course, are all too human, and their rhyme can be some of the trickiest in the play. What we've been finding, however, is that the rhymes can help the actors to be even more specific in their playing of the text. If they take the rhymes for granted, we can all feel how they start to weigh on the speech or scene, but when they are active in choosing to rhyme and finding just the right word, it gives their performances urgency and immediacy.”[2]
@@ -95,21 +89,17 @@ Shakespeare applies catalectic trochaic tetrameter in verse when he wishes to ad
 
 #### FAIRIES:
 
-*(sing)*
-
-*Philomel, with melody*
-
-*Sing in our sweet lullaby.*
-
-*Lulla, lulla, lullaby, lulla, lulla, lullaby.*
-
-*Never harm*
-
-*Nor spell nor charm*
-
-*Come our lovely lady nigh.*
-
-*So good night, with lullaby.(2.2:13-9)*
+<figure markdown="block">
+>(sing)
+>Philomel, with melody
+>Sing in our sweet lullaby.
+>Lulla, lulla, lullaby, lulla, lulla, lullaby.
+>Never harm
+>Nor spell nor charm
+>Come our lovely lady nigh.
+>So good night, with lullaby.
+<figcaption>2.2:13-9</figcaption>
+</figure>
 
 This separates the supernatural beings from the rest of the characters in the plays and adds a mystique to their spells.
 
@@ -118,15 +108,12 @@ Like in other Shakespeare plays such as As You Like It and Henry V, prose is use
 
 ##### BOTTOM:
 
-*Not a word of me. All that I will tell you is, that*
-
-*the duke hath dined. Get your apparel together,*
-
-*good strings to your beards, new ribbons to your*
-
-*pumps; meet presently at the palace; every man look*
-
-*o'er his part; for the short and the long is, our*
-
-*play is preferred. (4.2:15-20)*
-
+<figure markdown="block">
+>Not a word of me. All that I will tell you is, that
+>the duke hath dined. Get your apparel together,
+>good strings to your beards, new ribbons to your
+>pumps; meet presently at the palace; every man look
+>o'er his part; for the short and the long is, our
+>play is preferred.
+<figcaption>4.2:15-20</figcaption>
+</figure>
