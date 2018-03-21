@@ -33,3 +33,6 @@ investigate further.
 # Twelfth Night
 [![Twelfth Night word cloud](twelfth_night.png)](/analyses/twelfth_night)
 
+# A Midsummer Night's Dream
+[![A Midsummer Night's Dream word cloud](a_midsummer_nights_dream.png)](/analyses/a_mid_summer_nights_dream)
+
