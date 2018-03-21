@@ -7,7 +7,6 @@ year: 1595
 summary: A historical play examining the life of King Richard II of England.
 ---
 
-<br>
 Using a tool called WordHoard, we can view the words that appear in Richard II
 more or less than would be expected, compared to the rest of
 Shakespeare’s plays.  The words in black appear more frequently in Richard II
@@ -115,14 +114,14 @@ The word pride is spoken about or by Richard:
 > For time hath set a blot upon my pride
 <figcaption>(Act III, Scene II)</figcaption>
 
-> I give this heavy weight from off my head \\
-> And this unwieldy sceptre from my hand, \\
+> I give this heavy weight from off my head
+> And this unwieldy sceptre from my hand,
 > The pride of kingly sway from out my heart
 <figcaption>(Act IV, Scene I)</figcaption>
 
-> […] how these vain weak nails \\
-> May tear a passage through the flinty ribs \\
-> Of this hard world, my ragged prison walls, \\
+> […] how these vain weak nails
+> May tear a passage through the flinty ribs
+> Of this hard world, my ragged prison walls,
 > And, for they cannot, die in their own pride
 <figcaption>(Act IV, Scene V)</figcaption>
 </figure>
@@ -165,7 +164,7 @@ The word proud also appears quite often whenever Bolingbroke makes a speech or
 someone speaks about him, particularly towards the end of the play:
 
 <figure markdown="block">
-> Fair cousin, you debase your princely knee \\
+> Fair cousin, you debase your princely knee
 > To make the base earth proud with kissing it
 <figcaption>(Richard to Bolingbroke, Act III, Scene III)</figcaption>
 
@@ -181,12 +180,12 @@ someone speaks about him, particularly towards the end of the play:
 The word freedom only occurs once in the play and it is spoken by Bolingbroke.
 
 <figure markdown="block">
-> Nay, rather, every tedious stride I make \\
-> Will but remember me what a deal of world \\
-> I wander from the jewels that I love. \\
-> Must I not serve a long apprenticehood \\
-> To foreign passages, and in the end, \\
-> Having my freedom, boast of nothing else \\
+> Nay, rather, every tedious stride I make
+> Will but remember me what a deal of world
+> I wander from the jewels that I love.
+> Must I not serve a long apprenticehood
+> To foreign passages, and in the end,
+> Having my freedom, boast of nothing else
 > But that I was a journeyman to grief?
 <figcaption>(Act I, Scene III)</figcaption>
 </figure>
@@ -218,9 +217,9 @@ confident and demanding character:
 > Cousin, stand forth, and look upon that man
 <figcaption>(Act IV, Scene I)</figcaption>
 
-> Go, signify as much, while here we march \\
-> Upon the grassy carpet of this plain. \\
-> Let's march without the noise of threatening drum. \\
+> Go, signify as much, while here we march
+> Upon the grassy carpet of this plain.
+> Let's march without the noise of threatening drum.
 > [....] March on, and mark King Richard how he looks
 <figcaption>(Act III, Scene III)</figcaption>
 </figure>
@@ -260,11 +259,11 @@ The Bishop of Carlisle is also loyal to Richard, often pointing out how his
 power is legitimised by God:
 
 <figure markdown="block">
-> [...] Would God that any in this noble presence \\
-> Were enough noble to be upright judge \\
-> Of noble Richard! then true noblesse would \\
-> Learn him forbearance from so foul a wrong. \\
-> What subject can give sentence on his king? \\
+> [...] Would God that any in this noble presence
+> Were enough noble to be upright judge
+> Of noble Richard! then true noblesse would
+> Learn him forbearance from so foul a wrong.
+> What subject can give sentence on his king?
 > And who sits here that is not Richard's subject [...]
 <figcaption>(Act IV, Scene I)</figcaption>
 </figure>
@@ -274,19 +273,19 @@ prophesising violent wars, confirm that he believes in the divine right of
 kings:
 
 <figure markdown="block">
-> [...] And if you crown him, let me prophesy: \\
-> The blood of English shall manure the ground, \\
-> And future ages groan for this foul act; \\
-> Peace shall go sleep with Turks and infidels, \\
-> And in this seat of peace tumultuous wars \\
-> Shall kin with kin and kind with kind confound; \\
-> Disorder, horror, fear and mutiny \\
-> Shall here inhabit, and this land be call'd \\
-> The field of Golgotha and dead men's skulls. \\
-> O, if you raise this house against this house, \\
-> It will the woefullest division prove \\
-> That ever fell upon this cursed earth. \\
-> Prevent it, resist it, let it not be so, \\
+> [...] And if you crown him, let me prophesy:
+> The blood of English shall manure the ground,
+> And future ages groan for this foul act;
+> Peace shall go sleep with Turks and infidels,
+> And in this seat of peace tumultuous wars
+> Shall kin with kin and kind with kind confound;
+> Disorder, horror, fear and mutiny
+> Shall here inhabit, and this land be call'd
+> The field of Golgotha and dead men's skulls.
+> O, if you raise this house against this house,
+> It will the woefullest division prove
+> That ever fell upon this cursed earth.
+> Prevent it, resist it, let it not be so,
 > Lest child, child's children, cry against you woe!
 <figcaption>(Act IV, Scene I)</figcaption>
 </figure>
@@ -326,9 +325,9 @@ This refers to England, its people and its world standing.
 Bolingbroke also uses patriotic language:
 
 <figure markdown="block">
-> Then, England's ground, farewell; sweet soil, adieu; \\
-> My mother, and my nurse, that bears me yet! \\
-> Where'er I wander, boast of this I can, \\
+> Then, England's ground, farewell; sweet soil, adieu;
+> My mother, and my nurse, that bears me yet!
+> Where'er I wander, boast of this I can,
 > Though banish'd, yet a trueborn Englishman
 <figcaption>(Act I, Scene III)</figcaption>
 </figure>
@@ -387,8 +386,8 @@ The main findings show that Richard has a positive view of the Queen, referring
 to her in positive terms:
 
 <figure markdown="block">
-> Join not with grief, fair woman, do not so, \\
-> To make my end too sudden: learn, good soul, \\
+> Join not with grief, fair woman, do not so,
+> To make my end too sudden: learn, good soul,
 > To think our former state a happy dream
 <figcaption>(Act V, Scene I)</figcaption>
 </figure>
