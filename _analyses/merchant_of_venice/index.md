@@ -1,14 +1,9 @@
 ---
 title: The Merchant of Venice
-permalink: /analyses/merch
-
-
-
-
-ant_of_venice/
+permalink: /analyses/merchant_of_venice/
 read_play: http://shakespeare.mit.edu/merchant/full.html
 year: 1596-1599
-summary: todo
+summary: Shakespearean comedy set in Venice and Belmont, focusing on friendship, love and racial tension
 ---
 
 #A Summary of The Merchant of Venice
