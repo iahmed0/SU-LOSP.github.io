@@ -40,14 +40,13 @@ stage and it can be used to determine when characters meet each other.
 
 ## [StoryArcPlotter](/tools/StoryArcPlotter.py)
 
-A Python 3 script we made that generates a graph of the story arc of a given Shakespeare play by measuring the 'happiness' level of each line in the play. Can also generate a list of notable lines in the play, and export data as csv files. 
+A Python 3 script we made that generates a graph of the story arc of a given Shakespeare play by measuring the 'happiness' level of each line in the play. Features:
+
+ - Generates graphs of Shakespeare plays.
+ - Can find notable lines in plays based on their 'happiness' level.
+ - Can export data as CSV files.
 
 Requires 'matplotlib' Python module to draw graphs.
-
-<figure>
-    <img src="StoryArcPlotterExample.png" alt="Example graph produced by StoryArcPlotter" width="671" height="336">
-    <!-- ![Example graph](/tools/StoryArcPlotterExample.png "Example graph produced by StoryArcPlotter") -->
-</figure>
 
 ## [Vocabalance](https://github.com/SU-LOSP/vocabalance/)
 
