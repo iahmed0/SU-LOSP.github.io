@@ -1,6 +1,8 @@
 ---
 title: Othello
 permalink: /analyses/othello/
+read_play: http://shakespeare.mit.edu/othello/full.html
+pdf: othello.pdf
 year: 1603
 summary: Othello (the full title of which is The Tragedy of Othello, The Moor of Venice) is a tragedy written by William Shakespeare around 1603, and first published in 1622. It is believed to be based upon the short story ‘Un Capitano Moro’ (1565), by Italian writer Cinthio (Giovanni Battista Giraldi). Othello is a play about jealousy and deception, and follows Iago – the central antagonist (villain) – as he attempts to destroy the life of Othello – Iago’s boss, a celebrated war general, and the central protagonist (hero). Iago is a master manipulator who exploits the vulnerabilities of others; he is a puppeteer who causes most of the dramatic events. The core of the play follows Othello’s misplaced jealousy; he has been deceived by Iago into believing that Desdemona (Othello’s wife) and Cassio (Othello’s liteutenant) are having an affair. Convinced Iago is telling the truth, continuously provoked by the villain, and driven mad with jealousy, Othello murders Desdemona. Upon Emilia revealing Iago’s true nature, Othello, overcome with guilt and sorrow, commits suicide. Thus ends the Moor’s tragic tale.
 ---
