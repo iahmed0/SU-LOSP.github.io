@@ -1,5 +1,5 @@
 # characters.py - analyse character interactions in Shakespeare plays
-# Copyright (C) 2016 Unai Zalakain <unai@gisa-elkartea.org>
+# Copyright (C) 2016 Uma Zalakain <uma@gisa-elkartea.org>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

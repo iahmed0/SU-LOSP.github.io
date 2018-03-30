@@ -13,7 +13,7 @@ title: About us
 ## IT and Tools Enquiries
  
 - Linus Heckemann <linus.heckemann.2014@uni.strath.ac.uk>
-- Unai Zalakain <unai.zalakain.2014@uni.strath.ac.uk>
+- Uma Zalakain <uma.zalakain.2014@uni.strath.ac.uk>
 
 ## 2016-2017 Contributors
  
