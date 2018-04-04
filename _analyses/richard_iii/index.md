@@ -4,7 +4,7 @@ permalink: /analyses/richard_iii/
 read_play: http://shakespeare.mit.edu/richardiii/full.html
 pdf: richard_iii.pdf
 year: 1592
-summary: Richard III is a historical play which examines the life of King Richard III of England who reigned during the period in history known as ‘The Wars of the Roses’. Richard III was the last Plantagenet King of England and until recently was believed to have been a usurper and a murderer, among other charges. Shakespeare’s take on his life and reign was largely to blame for these assumptions, as he was writing during the Tudor dynasty and was required to produce works which would portray the current royal family in a positive light while slandering the previous royal family as much as possible. What resulted is a volatile mixture of history and propaganda told through the medium of a play, which will horrify the reader with the depths of its villainy and delight with its portrayal of knights in shining armour coming to rescue the country of England from a brutal and treacherous King.
+summary: A play narrating the story of malicious Richard, Edward IV’s younger brother, and his skilful deception of everyone around him in his attempt to overthrow his older brother and become king.
 ---
 
 <figure>

@@ -4,8 +4,7 @@ permalink: /analyses/twelfth_night/
 read_play: http://shakespeare.mit.edu/twelfth_night/full.html
 pdf: twelfth_night.pdf
 year: 1601-1602
-summary: Commedy that revolves around the misunderstandings of love and sexual
-         attraction and that explores cross-dressing and the concept of gender.
+summary: Comedy that revolves around the misunderstandings of love and sexual attraction and that explores cross-dressing and the concept of gender.
 ---
 
 <figure>

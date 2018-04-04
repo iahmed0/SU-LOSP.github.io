@@ -4,11 +4,7 @@ permalink: /analyses/julius_caesar/
 read_play: http://shakespeare.mit.edu/julius_caesar/full.html
 pdf: julius_caesar.pdf
 year: 1599
-summary: Julius Caesar is part of a series of plays by Shakespeare which are
-  based on historical events. In this analysis you will find a breakdown
-  of the gender imbalance within the play, where you will find that the pronoun
-  ‘he’ is more present than the pronoun ‘she’, which is uncommon in Shakespeare's wider work.
-  Finally, we illustrate the use of assertive language and how the name ‘Caesar’ impacts the play.
+summary: A classic tale of power and betrayal which follows the conspiracy and aftermath of the assassination of Julius Caesar.
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: The Tragedy of Macbeth
+title: Macbeth
 permalink: /analyses/macbeth/
 read_play: http://shakespeare.mit.edu/macbeth/full.html
 pdf: macbeth.pdf

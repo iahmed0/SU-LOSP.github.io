@@ -4,7 +4,7 @@ permalink: /analyses/the_tempest/
 read_play: http://shakespeare.mit.edu/tempest/full.html
 pdf: the_tempest.pdf
 year: 1611
-summary: The Tempest is set on a remote island, where the sorcerer Prospero, rightful Duke of Milan, plots to restore his daughter Miranda to her rightful place using illusion and skilful manipulation. 
+summary: On a remote island, sorcerer Prospero, rightful Duke of Milan, plots to take revenge against his family and restore his rightful dukedom using illusion and skilful manipulation.
 ---
 <br>
 Using a tool called WordHoard, we can view the words that appear in The Tempest

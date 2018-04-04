@@ -4,11 +4,7 @@ permalink: /analyses/romeo_and_juliet/
 read_play: http://shakespeare.mit.edu/romeo_juliet/full.html
 pdf: RJ.pdf
 year: 1591-1595
-summary: Young lovers, light and darkness, positivity and negativity…
-  Romeo and Juliet is one of the most well known Shakespeare plays as it is seen
-  as one of the greatest love stories ever told.
-  We developed an in-depth analysis of the play while exploring new themes and
-  existing themes in new ways.
+summary: One of Shakespeare’s most famous tragedies – the love story between Romeo Montague and Juliet Capulet, hindered by the hatred between their families.
 ---
 
 

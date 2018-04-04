@@ -4,7 +4,7 @@ permalink: /analyses/richard_ii/
 read_play: http://shakespeare.mit.edu/richardii/full.html
 pdf: richard_ii.pdf
 year: 1595
-summary: A historical play examining the life of King Richard II of England.
+summary: A play about the defeat of King Richard II and the rise of his cousin King Henry IV.
 ---
 
 Using a tool called WordHoard, we can view the words that appear in Richard II
