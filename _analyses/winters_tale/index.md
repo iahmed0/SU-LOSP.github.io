@@ -30,7 +30,7 @@ By looking at pronouns in The Winter’s Tale, we came up with several interesti
 	<img alt="Figure 1" title="Winter's Tale word cloud" src="Images/img1.png"/>
 </figure>
 
-# Symbolism of Symbols
+# Symbolism of Seasons
 
 The use of seasons and words describing seasons is well known theme in The Winter’s Tale. After reading the play and noticing the turning point of the play when we learn that Leontes and Hermione’s daughter has grown up and fallen in love, we decided to analyse the use the seasons and their words further.
 Using Antconc, we first looked at Winter and when it was used – out with the title – and the rough context of it. The first very obvious thing that we noticed was that ‘winter’ was mentioned 7 times within the play and this all occurred between the beginning and the middle of the play. The significance of this is the negative beginning to the story and the common themes in the beginning of suspicion, jealousy and darkness. The word ‘cold’ is only referred to 3 times in the play in the rough middle of the play but each time this is mentioned it is used somehow to refer to death.
