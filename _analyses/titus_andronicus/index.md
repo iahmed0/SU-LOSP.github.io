@@ -26,3 +26,8 @@ According to some of the most frequent words in this play- “silent” “sweet
 The submissive and silent Lavinia turned out to be the object of man’s lust and the disgrace of the family until her death. She was only an appendage of male as the word “shame” appeared for a large amount of times.  
 Tamora subconsciously launched a challenge to the patriarchy and tried to win the dominant position, which caused men’s aversion and fear and also became the victim of patriarchy. 
 After all, women in this play could not get rid of the mercy of men. As a male playwright, Shakespeare’s unintentionally misogynistic tendency and the popularity of such bloody plays at this time reflected the social situation of women in an age when patriarchal culture was so deep-tooted. 
+
+# Potential Topics For Future Research
+<ul>
+  <li>Hands, and what they symbolise in the act of dismembering.</li>
+</ul>
