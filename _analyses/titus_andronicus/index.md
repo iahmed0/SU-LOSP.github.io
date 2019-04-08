@@ -13,7 +13,7 @@ Titus Andronicus is one of Shakespeare’s earliest plays, a Roman tragedy that 
 # Revenge
 We used AntConc for its concordance plot feature; searching through Titus Andronicus and six other Shakespearplays across the genres (Comedies, Histories and Tragedies) for words of the form "*veng*". This truncation in this way allowed us to not only search for "revenge", but also "vengance" and "avenge".
 <figure>
-  <img src="Plots Page.jpg" alt="Concordenance Plots"/>
+  <img src="Plots page.jpg" alt="Concordenance Plots"/>
 </figure>
 The plots above show us that 'Titus Andronicus' has a substantially higher use of words of form "*veng*" compared to the other 6 plays used for comparison, one of which is 'Hamlet' which is Shakespear's longest play and focuses on similar issues as 'Titus Andronicus'; and yet Andronicus contains more than double the use of such words.
 
