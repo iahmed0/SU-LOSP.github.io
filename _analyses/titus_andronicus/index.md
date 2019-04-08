@@ -30,4 +30,7 @@ After all, women in this play could not get rid of the mercy of men. As a male p
 # Potential Topics For Future Research
 <ul>
   <li>Hands, and what they symbolise in the act of dismembering.</li>
+  <li>Silencing in the role of laviniad: wider themes of feminism and social rule.</li>
+  <li>Look further into 'Emperor' and 'Emperess' most significant words in word cloud, theme of power? </li>
+  <li>Dialogue of tamora and lavinia stats used to generate additional graphic analysis.</li>
 </ul>
